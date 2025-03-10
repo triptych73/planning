@@ -1,0 +1,65 @@
+```markdown
+# The City Planning Officer
+
+**Peter Wynne Rees**  
+BSc, BArch, BTP, RIBA, FRTPI, FRSA
+
+## Department of Planning & Transportation
+
+Corporation of London  
+PO Box 270, Guildhall  
+London EC2P 2EJ  
+Facsimile 020 7332 1806  
+DX 121874 GUILDHALL DX  
+[www.cityoflondon.gov.uk/plans](http://www.cityoflondon.gov.uk/plans)
+
+### Contact Information
+
+- General Enquiries: 020 7332 1710
+- Direct Line: 020 7332 1709
+- Email: claire.brady@corpolondon.gov.uk
+
+### Reference
+- Our Reference: 05/00194/FULL
+- Case Officer: Claire Brady
+- Decision Dated: 12 May 2005
+
+---
+
+# Washbourne Greenwood Development Planning
+
+Richard Greenwood  
+Old School Studios  
+Erasmus St  
+Westminster  
+SW1P 4HR
+
+---
+
+# Town and Country Planning Act 1990
+
+## PLANNING PERMISSION FOR DEVELOPMENT (CONDITIONAL)
+
+The Common Council of the City of London hereby permits the development referred to in the schedule below in accordance with the plans submitted and subject to the conditions set out therein. Your attention is drawn to the Statement of Applicant’s Rights enclosed.
+
+### SCHEDULE
+
+- **APPLICATION NUMBER:** 05/00194/FULL
+- **Location:** Tower of St Mary Somerset Church 211 Upper Thames Street London EC4
+- **Proposal:** External alterations and extension to existing tower (76 sqm). Use as a single dwelling house with ancillary office accommodation (Class C3) (190 sqm).
+
+### REASON FOR APPROVAL
+
+The decision to grant this planning permission has been taken having regard to the policies in the City of London Unitary Development Plan 2002 set out below, the London Plan, which forms part of the Development Plan for the City of London, and to all relevant material considerations:
+
+- **HOUS1** - Provision of residential accommodation
+- **HOUS9** - General environment
+- **HOUS11** - Accessible housing
+- **REC1** - Resisting the loss of Open Space
+- **UTIL6** - Waste storage and collection
+- **ENV2** - Important Views, Prospects & Panoramas
+- **ENV4** - Street network and open spaces
+- **ENV6** - Alterations and extensions
+- **ENV16** - Listed buildings: Alterations
+- **ENV17** - New uses for listed buildings
+```
