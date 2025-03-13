@@ -1,0 +1,77 @@
+2g drawings
+[Original Document](https://raw.githubusercontent.com/triptych73/planning/main/44-1-g-2-2g%20drawings.pdf)
+
+---
+
+# Approved Already Re-Submitted to Discharge Condition 2 (9)
+
+---
+
+## Details
+
+**Drawing Title:**  
+- **Project:** [Project Name]
+- **Client:** [Client Name]
+- **Drawing Number:** [Drawing Number]
+- **Scale:** [Scale]
+- **Date:** [Date]
+- **Drawn By:** [Name]
+- **Checked By:** [Name]
+
+---
+
+## Sections
+
+### Section 1
+
+- **Description:** [Description of Section 1]
+- **Details:** [Details of Section 1]
+
+### Section 2
+
+- **Description:** [Description of Section 2]
+- **Details:** [Details of Section 2]
+
+### Section 3
+
+- **Description:** [Description of Section 3]
+- **Details:** [Details of Section 3]
+
+### Section 4
+
+- **Description:** [Description of Section 4]
+- **Details:** [Details of Section 4]
+
+### Section 5
+
+- **Description:** [Description of Section 5]
+- **Details:** [Details of Section 5]
+
+---
+
+## Notes
+
+- **General Notes:** [General Notes]
+- **Specific Instructions:** [Specific Instructions]
+
+---
+
+**Note:** The above placeholders [ ] should be filled with the actual text from the image where applicable.
+
+---
+
+**APPROVED ALREADY**
+
+**RE-SUBMITTED TO DISCHARGE CONDITION 2 (9)**
+
+---
+
+**Planning Register**
+
+---
+
+**GPP**
+
+---
+
+*(Additional text is not legible due to image quality and orientation.)*
