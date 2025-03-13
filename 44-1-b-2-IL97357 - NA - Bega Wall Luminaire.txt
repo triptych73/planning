@@ -1,0 +1,47 @@
+IL97357 - NA - Bega Wall Luminaire
+[Original Document](https://raw.githubusercontent.com/triptych73/planning/main/44-1-b-2-IL97357%20-%20NA%20-%20Bega%20Wall%20Luminaire.pdf)
+
+---
+
+# BEGA
+
+## Wall Luminaires
+
+### Wall Luminaires for Incandescent Lamps
+
+- **A 60 100 W** = E 27
+
+### Other Lamps
+
+- HME 50, 80 - 125 W
+
+### Specifications
+
+- **Protection Class:** IP 65
+- Safety glass with optical texture
+- Reflector of pure anodized aluminum
+- Die cast aluminum and stainless steel
+
+### Colour Options
+
+- **Graphite:** Article number
+- **White:** Article number + W
+- **Silver:** Article number + A
+
+### Product Details
+
+| Article | Description      | Quantity | Type | Wattage    | Lumen       | A  | B  | C  |
+|---------|------------------|----------|------|------------|-------------|----|----|----|
+| 2480    | Wall luminaire   | 1        | A 60 | 100 W      | 1380        | 230| 230| 160|
+| 2482    | Wall luminaire   | 1        | HME  | 50 W       | 2000        | 230| 230| 160|
+| 2483    | Wall luminaire   | 1        | HME  | 80 - 125 W | 4000 - 6500 | 320| 320| 220|
+
+---
+
+**L15 Bega Wall Luminaire**
+
+---
+
+**07/00749**
+
+**OFFICE COPY**
