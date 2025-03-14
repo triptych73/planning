@@ -3,7 +3,7 @@
 **Peter Wynne Rees**  
 BSc, BArch, BTP, RIBA, FRTPI, FRSA
 
-**Department of Planning & Transportation**
+Department of Planning & Transportational
 
 Corporation of London  
 PO Box 270, Guildhall  
@@ -61,4 +61,3 @@ The decision to grant this planning permission has been taken having regard to t
 - **ENV6** - Alterations and extensions
 - **ENV16** - Listed buildings: Alterations
 - **ENV17** - New uses for listed buildings
-```
