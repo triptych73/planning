@@ -1,3 +1,39 @@
+```yaml
+---
+filename: "40-1-1-07_00749_MDC-APPROVAL_OF_SUBMISSION_OF_DETAILS-93382 2005 ARCHAEOLOGY rename.txt"
+description: "This document is the approval notice for the submission of details related to an archaeological evaluation method statement pursuant to a planning condition imposed on the Tower of St Mary Somerset, London EC4. It includes the procedural and legal framework under the Town and Country Planning Act 1990 and the specific methods for archaeological exploration ahead of the tower's redevelopment."
+topics:
+  - Archaeology
+  - Town Planning
+  - Planning Permission
+  - Conservation
+  - Heritage Management
+keywords:
+  - City of London
+  - Tower of St Mary Somerset
+  - Archaeological Method Statement
+  - Planning Application
+  - MoLAS (Museum of London Archaeology Service)
+  - Site Evaluation
+  - Heritage Preservation
+  - PPG16 (Planning Policy Guidance 16)
+  - Residential Conversion
+tagged_date: "2005-09-15"
+author: 
+  - Kathryn Stubbs (Case Officer)
+  - Peter Wynne Rees (City Planning Officer)
+entities:
+  - Museum of London Archaeology Service
+  - Corporation of London
+  - Planning Inspectorate
+related_documents:
+  - "05/00713/MDC"
+  - "05/00194/FULL"
+feedback_contact: "kathryn.stubbs@corpoflondon.gov.uk"
+document_origin: "Corporation of London, Department of Planning & Transportation"
+---
+```
+
 07_00749_MDC-APPROVAL_OF_SUBMISSION_OF_DETAILS-93382 2005 ARCHAEOLOGY
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/40-1-1-07_00749_MDC-APPROVAL_OF_SUBMISSION_OF_DETAILS-93382%202005%20ARCHAEOLOGY.pdf)
 
