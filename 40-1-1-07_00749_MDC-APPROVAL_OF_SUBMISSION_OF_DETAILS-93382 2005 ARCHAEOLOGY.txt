@@ -1,5 +1,4 @@
 ```yaml
----
 filename: "40-1-1-07_00749_MDC-APPROVAL_OF_SUBMISSION_OF_DETAILS-93382 2005 ARCHAEOLOGY rename.txt"
 description: "This document is the approval notice for the submission of details related to an archaeological evaluation method statement pursuant to a planning condition imposed on the Tower of St Mary Somerset, London EC4. It includes the procedural and legal framework under the Town and Country Planning Act 1990 and the specific methods for archaeological exploration ahead of the tower's redevelopment."
 topics:
@@ -31,7 +30,6 @@ related_documents:
   - "05/00194/FULL"
 feedback_contact: "kathryn.stubbs@corpoflondon.gov.uk"
 document_origin: "Corporation of London, Department of Planning & Transportation"
----
 ```
 # The City Planning Officer
 
