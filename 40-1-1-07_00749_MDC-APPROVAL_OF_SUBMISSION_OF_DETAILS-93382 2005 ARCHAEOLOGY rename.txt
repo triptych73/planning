@@ -33,12 +33,6 @@ feedback_contact: "kathryn.stubbs@corpoflondon.gov.uk"
 document_origin: "Corporation of London, Department of Planning & Transportation"
 ---
 ```
-
-07_00749_MDC-APPROVAL_OF_SUBMISSION_OF_DETAILS-93382 2005 ARCHAEOLOGY
-[Original Document](https://raw.githubusercontent.com/triptych73/planning/main/40-1-1-07_00749_MDC-APPROVAL_OF_SUBMISSION_OF_DETAILS-93382%202005%20ARCHAEOLOGY.pdf)
-
----
-
 # The City Planning Officer
 
 Corporation of London  
