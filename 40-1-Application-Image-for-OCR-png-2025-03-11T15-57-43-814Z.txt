@@ -1,3 +1,34 @@
+```yaml
+---
+filename: "40-1-Application-Image-for-OCR-png-2025-03-11T15-57-43-814Z.txt"
+keywords:
+  - Town and Country Planning Act
+  - Development
+  - Common Council
+  - City of London
+  - Planning Permission
+  - Tower of St Mary Somerset Church
+  - Residential Accommodation
+  - Listed Buildings
+  - External Alterations
+  - Extension
+topics:
+  - Urban Development
+  - Historic Preservation
+  - Urban Planning Policies
+  - Housing
+  - Environmental Considerations
+description: >
+  This document is a planning permission notice dated 12 May 2005 issued by the Common 
+  Council of the City of London. It grants conditional permission for the external alteration 
+  and extension of the Tower of St Mary Somerset Church located at 211 Upper Thames 
+  Street, London. The proposal includes converting the tower for residential use with ancillary 
+  office space. The decision considers various policies within the City of London Unitary 
+  Development Plan 2002 and the London Plan, addressing accommodation provision, 
+  environmental impacts, and the preservation of listed buildings.
+...
+```
+
 plaintext
 Erasmus St
 Westminster
