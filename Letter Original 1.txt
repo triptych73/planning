@@ -1,3 +1,24 @@
+```yaml
+# ---
+# keywords:
+#   - Listed Building Consent
+#   - Planning Permission
+#   - St Mary Somerset
+#   - Residential Conversion
+#   - Heritage Conservation
+#   - Architectural Plans
+#   - City Corporation Policies
+#   - Wren Tower
+# topics:
+#   - Historic Building Restoration
+#   - Urban Planning and Development
+#   - Architectural Heritage
+#   - Planning Process and Policies
+# description: |
+#   This document is a formal letter from Washbourne Greenwood Development Planning addressing the proposal for the extension, alteration, and conversion of the Grade I listed Tower of St Mary Somerset in London into a single dwelling with an ancillary office. It highlights the necessity and viability of the project, minimal archaeological impact, and the protection of historical fabric. The proposal aligns with the relevant policies while emphasizing extensive pre-application consultations. The submission includes detailed architectural plans and a compliance statement with heritage guidelines.
+# ---
+```
+
 # **Letter to Planners – Design & Access Statement**
 **Date:** 10th March 2005  
 **From:** Washbourne Greenwood Development Planning  
