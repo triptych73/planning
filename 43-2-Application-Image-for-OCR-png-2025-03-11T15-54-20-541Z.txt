@@ -1,3 +1,36 @@
+```yaml
+---
+filename: 43-2-Application-Image-for-OCR-png-2025-03-11T15-54-20-541Z.txt
+title: Planning Permission for Development - Tower of St Mary Somerset Church
+keywords:
+  - Planning Permission
+  - Development
+  - City of London
+  - Residential Accommodation
+  - External Alterations
+  - Listed Buildings
+  - Unitary Development Plan 
+  - London Plan
+topics:
+  - Urban Planning
+  - Architecture
+  - Historic Preservation
+  - Residential Use
+  - Municipal Regulations
+description: >
+  This document grants conditional planning permission for the development of
+  Tower of St Mary Somerset Church located at 211 Upper Thames Street, London EC4.
+  The proposal includes external alterations and an extension to the existing tower
+  for use as a single dwelling house with ancillary office accommodation. The decision
+  was made in accordance with the City of London Unitary Development Plan 2002 and the
+  London Plan, considering policies related to residential accommodation, the environment,
+  and the use of listed buildings.
+date_of_decision: 12 May 2005
+location: Tower of St Mary Somerset Church, 211 Upper Thames Street, London EC4
+application_number: 05/00194/FULL
+--- 
+```
+
 Erasmus St  
 Westminster  
 SW1P 4HR  
