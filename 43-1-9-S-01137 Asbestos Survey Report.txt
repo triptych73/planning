@@ -1,0 +1,385 @@
+S-01137 Asbestos Survey Report
+[Original Document](https://raw.githubusercontent.com/triptych73/planning/main/43-1-9-S-01137%20Asbestos%20Survey%20Report.pdf)
+
+---
+
+# Asbestos Refurbishment Survey - Saint Mary Somerset Tower
+
+---
+
+**Client:**  
+Saint Mary Somerset Tower
+
+**Job Reference:**  
+S-01137
+
+**Report Date:**  
+01/04/2015
+
+**Property Address:**  
+Saint Mary Somerset Tower  
+5 Lambeth Hill  
+London  
+EC4V 4AG
+
+**Date of Survey:**  
+27/03/2015
+
+**Survey Type:**  
+Asbestos Refurbishment Survey
+
+**Surveyor Name:**  
+Mohammed Waheed
+
+**Surveyor Signature:**  
+![Signature](https://via.placeholder.com/150)
+
+**Report Prepared By:**  
+Saffron North
+
+**Signature:**  
+![Signature](https://via.placeholder.com/150)
+
+**Report Proof Read By:**  
+Ian Cook
+
+**Signature:**  
+![Signature](https://via.placeholder.com/150)
+
+---
+
+## Table of Contents
+
+1. [Types of Survey](#types-of-survey)
+2. [Duty Holders Use of Survey](#duty-holders-use-of-survey)
+3. [Introduction](#introduction)
+4. [Recommendations](#recommendations)
+5. [Material Assessment Algorithm](#material-assessment-algorithm)
+6. [References](#references)
+
+### Appendices
+
+- [Appendix A: Executive Summary, Register of Asbestos Containing Material, Non-Asbestos Register](#appendix-a)
+- [Appendix B: Site Floor Plans](#appendix-b)
+- [Appendix C: Laboratory Sample Reports](#appendix-c)
+
+---
+
+## Types of Survey
+
+There are two different types of survey: **Management Surveys** and **Refurbishment and Demolition Surveys**.
+
+The type of survey will vary during the lifespan of the premises and several may be needed over time. A management survey will be required during the normal occupation and use of the building to ensure continued management of the ACMs in situ. A refurbishment or demolition survey will be necessary when the building (or part of it) is to be upgraded, refurbished, or demolished. It is probable that at larger premises a mixture of survey types will be appropriate. In later years, refurbishment surveys may be required in rooms or floors which are being upgraded.
+
+### Management Survey
+
+A management survey is the standard survey. Its purpose is to locate, as far as reasonably practicable, the presence and extent of any suspect ACMs in the building which could be damaged or disturbed during normal occupancy, including foreseeable maintenance and installation, and to assess their condition.
+
+### Refurbishment and Demolition Survey
+
+A refurbishment and demolition survey is needed before any refurbishment or demolition work is carried out. This type of survey is used to locate and describe, as far as reasonably practicable, all ACMs in the area where the refurbishment work will take place or in the whole building if demolition is planned.
+
+---
+
+## Duty Holders Use of Survey
+
+The survey report needs to meet the requirements of the client and comply with the tender/contractual obligations. The report should be fit for purpose and the client should check that this is the case.
+
+### The client/duty holder should do to check the accuracy of the survey report
+
+- Check the report against the original tender.
+- Check for unagreed caveats or disclaimers.
+- Check that the survey is as requested: Management or refurbishment/demolition (or a combination).
+- Check diagrams and plans are clear and accurate.
+- Check all rooms and areas have been accessed.
+- Check sufficient samples have been taken and that sample numbers are not disproportionate.
+- Check for any obvious discrepancies and inconsistencies.
+
+---
+
+## 1. Introduction
+
+### 1.1
+
+An Asbestos Refurbishment Survey of the premises was carried out on behalf of Saint Mary Somerset Tower. The survey and all sampling were carried out in accordance with the requirements of the HSE document ‘Surveying, sampling and assessment of asbestos containing material’ HSG 264.
+
+### 1.2 Scope of Works
+
+The scope of works was to carry out an Asbestos Refurbishment Survey to a detached tower over six floors.
+
+### 1.3
+
+The areas described in the scope of works were surveyed at the time of the survey. Please refer to the specific exclusions/non-accessed table below for areas not included in this survey.
+
+### 1.4 Site Description
+
+The property consists of a detached tower over six floors. The approximate age of the property is 1600s and is constructed of masonry stonework and brickwork, metal rainwater goods, lead-lined flat roof.
+
+### 1.5 Specific Exclusions/Non-Accessed
+
+| Floor                              | Room | Description      | Reason                                                                 | Photo |
+|------------------------------------|------|------------------|------------------------------------------------------------------------|-------|
+| Saint Mary Somerset Tower / 2nd Floor | 006  | W/C (Water heater) | The water heater unit was sealed with rusted screws and could not be fully accessed. | ![Photo](image) |
+
+### 1.6 Specific exclusions relating to surveying
+
+#### 1.6.1
+
+Samples have not been taken where the act of sampling would endanger the Surveyor or affect the functional integrity of the item concerned.
+
+#### 1.6.2
+
+No inspection of live electrical or mechanical plant or similar requiring the attendance of a specialist engineer was carried out.
+
+#### 1.6.3
+
+No inspection of any area requiring specialist access equipment other than stepladders was carried out.
+
+#### 1.6.4
+
+No report has been made on any concealed spaces which may exist within the fabric of the building where the extent and presence of these is not evident due to inaccessibility or insufficient knowledge of the structure of the building at the time of the survey.
+
+#### 1.6.5
+
+Any area not accessed (and where no other information exists) must be presumed to contain asbestos and be managed on that basis.
+
+#### 1.6.6
+
+No inspection of any area deemed unsafe (e.g. fire damaged premises) or where access was physically impractical was carried out.
+
+### 1.7 Specific exclusions relating to sampling
+
+#### 1.7.1
+
+Samples have not been taken where the act of sampling would endanger the Surveyor or affect the functional integrity of the item concerned.
+
+#### 1.7.2
+
+Samples have not been taken where prohibited by the client.
+
+#### 1.7.3
+
+Samples have been taken from all materials which, upon initial visual inspection, appeared to contain asbestos with the exception of some items of mastic, resin or rubber.
+
+#### 1.7.4
+
+Materials have been referred to as Asbestos Insulation Board or Asbestos Cement based on their asbestos content and visual appearance alone.
+
+### 1.8 Caveat
+
+Every effort has been made to identify all asbestos materials so far as was reasonably practical to do so within the scope of the survey and attached report.
+
+---
+
+## 2. Recommendations
+
+### 2.1
+
+The recommendations detailed in the register in Appendix A are based on each item’s potential for releasing fibres as described in the Health and Safety Executive guideline HSG 264.
+
+### 2.2
+
+A quantifiable assessment of the risk of fibre release has been made by using an algorithm which takes into account all factors relevant to the item and the normal activities of the building occupants.
+
+#### 2.2.1 Definition of terms
+
+- **Enclosure** - Provision of a physical barrier to provide mechanical protection of the material to prevent it being disturbed or damaged.
+- **Encapsulation** - Provision of paint type coating to create a continuous seal to the surface of the material and thereby prevent fibre release.
+- **Labelling** - Fixing of labels to the surface of the material to warn of the hazard.
+- **Registering** - Entering the details, including type, location and extent in a register which is brought to the attention of all persons who might plan or undertake works in the building.
+- **Periodic** - Inspection of the material at defined intervals to check that its condition hasn’t deteriorated to require enclosure, encapsulation or removal.
+- **Repair** - Addition of a seal to the material to prevent the further deterioration of the material. Carried out in conjunction with labelling.
+- **Removal** - Complete removal of a material in compliance with CAWR 1998.
+- **Manage in situ** - a policy of regular inspections to ensure that the ACM is maintained in good condition.
+
+---
+
+## 3. Material Assessment Algorithm
+
+In the material assessment process, the main factors influencing fibre release are given a score which can then be added together to obtain a material assessment rating.
+
+### Materials with Assessment Scores
+
+| Description                                                | Score | Potential    |
+|------------------------------------------------------------|-------|--------------|
+| Scores of 4 or less have a very low potential to release fibres | <4    | Very Low     |
+| Scores of 5 and 6 a low potential                          | 5-6   | Low          |
+| Scores of between 7 and 9 are regarded as having a medium potential | 7-9   | Medium       |
+| Scores of 10 or more are rated as having a high potential to release fibres | 10+   | High         |
+| Non-asbestos materials are not scored                      | 0     | Not Recorded |
+
+---
+
+## 4. References
+
+- **Work with materials containing asbestos.** Control of Asbestos Regulations 2012. Approved Code of Practice and guidance L143 HSE Books 2006
+- **Managing health and safety in construction.** Construction (Design and Management) Regulations 2007. Approved Code of Practice L144 HSE Books
+- **A comprehensive guide to managing asbestos in premises** HSG227 HSE Books 2002 ISBN 978 0 7176 2381 5
+- **A short guide to managing asbestos in premises** Leaflet INDG223(rev4) HSE Books 2009 (single copy free or priced packs of 10 ISBN 978 0 7176 6375 0)
+- **Asbestos: The Survey Guide** HSG264 HSE Books 2012 ISBN 978 0 7176 6502 0
+- **Asbestos: The licensed contractors’ guide** HSG247 HSE Books 2006 ISBN 978 0 7176 2874 2
+- **The management of asbestos in non--domestic premises.** Regulation 4 of the Control of Asbestos Regulations 2006. Approved Code of Practice and guidance L127 (Second edition) HSE Books 2006 ISBN 978 0 7176 6209 8
+- **Health and Safety at Work etc. Act 1974 (c.37)** The Stationery Office 1974 ISBN 978 0 10 543774 1
+- **Management of health and safety at work.** Management of Health and Safety at Work Regulations 1999. Approved Code of Practice and guidance L21 (Second edition) HSE Books 2000 ISBN 978 0 7176 2488 1
+- **BS EN ISO/IEC 17020:2004** General criteria for the operation of various types of bodies performing inspection British Standards Institution
+- **BS EN ISO/IEC 17024:2003** Conformity Assessment. General requirements for bodies operating certification of persons British Standards Institution
+- **BS EN ISO 9001:2008** Quality management systems. Requirements British Standards Institution
+- **BS 6002--4:2006 ISO 3951--5:2006** Sampling procedures for inspection by variables. Sequential sampling plans indexed by acceptance quality limit (AQL) for inspection by variables (known standard deviation) British Standards Institution
+- **BS EN ISO/IEC 17025:2005** General requirements for the competence of testing and calibration laboratories British Standards Institution
+- **Asbestos in system buildings:** Control of Asbestos Regulations 2012. Guidance for duty holders HSE 2008 www.hse.gov.uk/services/education/claspguidance.pdf
+- **Asbestos: The analysts’ guide for sampling, analysis and clearance procedures** HSG248 HSE Books 2005 ISBN 978 0 7176 2875 9
+- **BS EN 60335** Specification for safety of household and similar electrical appliances British Standards Institution
+- **Asbestos essentials:** A task manual for building, maintenance and allied trades on non--licensed asbestos work HSG210 (Second edition) HSE Books 2008 ISBN 978 0 7176 6263 0
+- **Accreditation of bodies surveying for asbestos in premises** Edition 2 RGB 8/8 UKAS 2008 (for the application of ISO/IEC 17020)
+
+---
+
+## Appendix A
+
+- **Executive Summary**
+- **Register of Asbestos Containing Material**
+- **Non-Asbestos Register**
+
+### Executive Summary
+
+No asbestos containing materials were detected.
+
+---
+
+## Non-Asbestos Register
+
+| Item | Level | Location/Room Number | Survey Type | Sample Description | Sample Reference | Photo | Material Assessment |
+|------|-------|-----------------------|-------------|--------------------|------------------|-------|---------------------|
+| 1. | Saint Mary Somerset Tower / 1st Floor | Stairwell (001) | Asbestos Refurbishment Survey | Seal to roof door - Putty | S1 | ![Photo](#) | No Asbestos Detected |
+| 2. | Saint Mary Somerset Tower / 1st Floor | Vestibule (005) | Asbestos Refurbishment Survey | Seal to fuse box lid - Rope | S6 | ![Photo](#) | No Asbestos Detected |
+| 3. | Saint Mary Somerset Tower / 1st Floor | Vestibule (005) | Asbestos Refurbishment Survey | Lining to rear of flashes | S7 | ![Photo](#) | No Asbestos Detected |
+| 4. | Saint Mary Somerset Tower / 2nd Floor | Reading Room (004) | Asbestos Refurbishment Survey | Flooring - Vinyl Products | S4 | ![Photo](#) | No Asbestos Detected |
+| 5. | Saint Mary Somerset Tower / 2nd Floor | Store (005) | Asbestos Refurbishment Survey | | | | No suspect material found |
+| 6. | Saint Mary Somerset Tower / 2nd Floor | W/C (006) | Asbestos Refurbishment Survey | Toilet seat - Reinforced Plastics | S5 | ![Photo](#) | No Asbestos Detected |
+| 7. | Saint Mary Somerset Tower / 3rd Floor | Tank room (003) | Asbestos Refurbishment Survey | Lining to water tank - Roof Felt | S2 | ![Photo](#) | No Asbestos Detected |
+| 8. | Saint Mary Somerset Tower / 3rd Floor | Tank room (003) | Asbestos Refurbishment Survey | Water Tank lining - Loose Fill Insulation | S3 | ![Photo](#) | No Asbestos Detected |
+| 9. | Saint Mary Somerset Tower / 4th Floor | Belfry (002) | Asbestos Refurbishment Survey | | | | No suspect material found |
+
+---
+
+## Appendix B
+
+### Site Floor Plans
+
+#### Fourth Floor
+
+- **002** Belfry
+- **S02**
+- **S03**
+
+#### Third Floor
+
+- **003** Tank Room
+
+#### Roof
+
+- Flat Roof
+
+#### Second Floor
+
+- **004** Reading Room
+- **006** WC
+- **005** Store
+- **S04**
+- **S05**
+
+#### First Floor
+
+- **007** Vestibule
+- **S01**
+- **S06**
+- **S07**
+
+---
+
+### Site Plan
+
+**Key:**
+- ![Negative Sample Number](https://via.placeholder.com/15/ffffff/000000?text=+) Negative Sample Number
+- ![Positive Sample Number](https://via.placeholder.com/15/ff0000/000000?text=+) Positive Sample Number
+
+**Address:**
+Unit 28,  
+Essex Technology & Innovation Centre,  
+The Gables, Fyfield Road,  
+Ongar, CM5 0GA
+
+**Note:**
+- **Not to Scale**
+
+**Limitations of Reported Information:**
+The information contained within this report which identifies the locations of asbestos containing materials (ACMs) should not be treated as either exhaustive or definitive. It should always be assumed that there may be other ACMs present, hidden or undetected within the fabric of the building. Further investigations may be necessary when carrying out works likely to disturb the fabric of the building.
+
+---
+
+## Appendix C
+
+### Laboratory Sample Certificates
+
+#### Certificate for Identification of Asbestos Fibres
+
+**Client:**
+SALVUM LIMITED  
+ESSEX TECHNOLOGY & INNOVATION CENTRE  
+THE GABLES  
+FYFIELD ROAD  
+ONGAR  
+ESSEX  
+CM5 0GA  
+
+**Attention:**  
+TECHNICAL MANAGER  
+
+**Site Address:**  
+SAINT MARY SOMERSET TOWER  
+5 LAMBETH HILL  
+LONDON  
+EC4V 4AG  
+
+**Date sample taken:** 27/03/15  
+**Date sample received:** 31/03/15  
+**Date of Analysis:** 31/03/15  
+
+**Analysis Report No.:** SCO/15/5943  
+**Report Date:** 31/03/15  
+**Site Ref No.:** S-01137  
+**Page No.:** 1 Of 1  
+**No. of Samples:** 7  
+**Obtained:** DELIVERED  
+
+---
+
+### Sample Analysis
+
+| SCOPES SAMPLE No. | CLIENT SAMPLE No. | Sample Location                                      | Fibre Type Detected |
+|-------------------|-------------------|------------------------------------------------------|---------------------|
+| 1                 | B01               | 001 STAIRWELL- PUTTY SEAL TO ROOF DOORWAY            | NADIS               |
+| 2                 | B02               | 003 TANK ROOM- FELT LINING TO WATER TANK             | NADIS               |
+| 3                 | B03               | 003 TANK ROOM- LOOSE FILL INSULATION                 | NADIS               |
+| 4                 | B04               | 004 READING ROOM- VINYL FLOORING                     | NADIS               |
+| 5                 | B05               | 006 WC- RESIN TOILET SEAT                            | NADIS               |
+| 6                 | B06               | 007 VESTIBULE- ROPE SEAL TO FUSE BOX LID             | NADIS               |
+| 7                 | B07               | 007 VESTIBULE- PAPER BACKING TO FUSES                | NADIS               |
+
+---
+
+**KEY:**  
+NADIS - No Asbestos Detected in Sample
+
+**Note:** All samples will be retained for a minimum of six months.  
+**Note:** This Certificate for Identification of Asbestos Fibres shall not be reproduced except in full without the written approval of the Laboratory.
+
+**Analysed by:** N WILLIAMSON  
+**Authorised signatory:**  
+**Print name:** C.BOLTON — ADMINISTRATION MANAGER  
+
+---
+
+2 Nobel Square, Courtauld Road, Burnt Mills Industrial Estate, Basildon, Essex SS13 1LS  
+**Tel:** 01268 724785 **Fax:** 01268 724796 **Mob:** 07565 655132 **E-Mail:** enquiries@scopesasb.co.uk  
+Company Reg No: 1913-370 Reg Address: As above
