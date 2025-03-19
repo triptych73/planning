@@ -1,3 +1,33 @@
+```yaml
+# Metadata for 43-2-2--Planning-Permission-for-Development---20120512-pdf-2025-03-10T18-21-43-766Z.txt
+
+keywords:
+  - planning permission
+  - Town and Country Planning Act 1990
+  - City of London
+  - development plan
+  - residential accommodation
+  - listed buildings
+  - urban development
+  - environmental policies
+  - applicant rights
+  - Claire Brady
+
+topics:
+  - Urban planning
+  - Residential development
+  - Heritage building alterations
+  - Environmental policy compliance
+  - Planning legislation
+
+description: >
+  This document details the planning permission granted for development at the Tower of St Mary Somerset Church, London.
+  It includes applicant information, conditions for the development, and pertinent references to the City of London's 
+  Unitary Development Plan and the London Plan. The permission allows for external alterations and the extension of the 
+  existing tower to be used as a dwelling with office space, subject to conditions set by the City Planning Officer 
+  and regulations under the Town and Country Planning Act 1990.
+```
+
 # The City Planning Officer
 
 **Peter Wynne Rees** BSc, BArch, BTP, RIBA, FRTPI, FRSA
