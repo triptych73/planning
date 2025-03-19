@@ -1,3 +1,27 @@
+```yaml
+# Metadata
+title: 44-1-b-2-IL97357 - NA - Bega Wall Luminaire
+description: This document provides specifications, options, and details for the Bega Wall Luminaire, including details on compatible lamps, protection class, materials, and available color options.
+keywords:
+  - Bega
+  - Wall Luminaire
+  - Incandescent Lamps
+  - HME Lamps
+  - Lighting Specification
+  - Protection Class IP 65
+  - Safety Glass
+  - Anodized Aluminum
+  - Die Cast Aluminum
+  - Graphite
+  - White
+  - Silver
+topics:
+  - Lighting Solutions
+  - Architectural Lighting
+  - Product Specifications
+  - Home and Office Lighting
+```
+
 IL97357 - NA - Bega Wall Luminaire
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/44-1-b-2-IL97357%20-%20NA%20-%20Bega%20Wall%20Luminaire.pdf)
 
