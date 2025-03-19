@@ -1,3 +1,24 @@
+```yaml
+# Metadata for Stone Cladding Sample - P153167
+---
+title: "Stone Cladding Sample - P153167"
+document_id: "P153167"
+url: "https://raw.githubusercontent.com/triptych73/planning/main/44-1-f-1-P153167%20-%20Stone%20Cladding%20Sample.pdf"
+description: "This document includes images and descriptions of a stone cladding sample panel using Portland Whitbed for the St Mary Somerset Tower. It details the materials and conditions, including base brickwork on a steel frame and bowing stonework on the church tower."
+keywords:
+  - Stone Cladding
+  - Portland Whitbed
+  - St Mary Somerset Tower
+  - Brickwork
+  - Steel Frame
+  - Bowing Stonework
+  - Church Tower
+topics:
+  - Architecture
+  - Construction Materials
+  - Historic Preservation
+```
+
 P153167 - Stone Cladding Sample
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/44-1-f-1-P153167%20-%20Stone%20Cladding%20Sample.pdf)
 
