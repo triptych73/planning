@@ -1,3 +1,36 @@
+```yaml
+---
+title: "40-1-Application-Image-for-OCR-png-2025-03-10T16-54-39-160Z"
+description: "Metadata for a planning permission document issued by the Common Council of the City of London, detailing an approved development involving external alterations and an extension to the Tower of St Mary Somerset Church."
+keywords:
+  - Town and Country Planning Act 1990
+  - Planning Permission
+  - Development
+  - City of London
+  - Building Extension
+  - Listed Buildings
+  - Residential Accommodation
+  - London Plan
+topics:
+  - Urban Planning
+  - Architecture
+  - Legal Permissions
+  - Urban Development
+  - Historic Building Use
+  - City Regulations
+  - Policy Compliance
+conditions:
+  - Provision of residential accommodation
+  - General environment maintenance
+  - Accessible housing compliance
+  - Preservation of Open Space
+  - Waste storage and collection
+  - Preservation of important views
+  - Alterations and extensions guidelines
+  - Listed buildings regulations
+---
+```
+
 # Town and Country Planning Act 1990
 
 ## PLANNING PERMISSION FOR DEVELOPMENT (CONDITIONAL)
