@@ -1,3 +1,29 @@
+```yaml
+# Metadata
+title: "Schedule of Windows and External Joinery"
+document_id: "44-1-c-1-AR97356 - NA - Schedule of Windows and External Joinery - TOPIC PAPER 3"
+description: "This document provides a comprehensive schedule of windows and external joinery for the Tower of St Mary Somerset, 211 Upper Thames Street, London EC 4. It details the treatment and status of various windows to fulfill parts of planning Condition 2(c) and 2(d)."
+author: "Washbourne Greenwood Development Planning"
+keywords: 
+  - windows
+  - external joinery
+  - planning conditions
+  - refurbishment
+  - Tower of St Mary Somerset
+  - window schedule
+  - architectural planning
+  - urban design
+  - building approvals
+topics:
+  - Town Planning and Development
+  - Master Planning
+  - Architectural Strategy
+  - Urban Design
+date: "undated"
+location: "London, United Kingdom"
+organization: "Washbourne Greenwood Development Planning"
+```
+
 AR97356 - NA - Schedule of Windows and External Joinery - TOPIC PAPER 3
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/44-1-c-1-AR97356%20-%20NA%20-%20Schedule%20of%20Windows%20and%20External%20Joinery%20-%20TOPIC%20PAPER%203.pdf)
 
