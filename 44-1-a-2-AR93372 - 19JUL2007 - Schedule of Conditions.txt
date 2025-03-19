@@ -1,3 +1,36 @@
+```yaml
+---
+filename: 44-1-a-2-AR93372 - 19JUL2007 - Schedule of Conditions.txt
+title: Schedule of Conditions for Tower of St Mary Somerset
+date: 19JUL2007
+document_reference: AR93372
+related_documents:
+  - 05/00194/FULL
+  - 05/00195/LBC
+keywords:
+  - Planning Conditions
+  - Listed Building Consent
+  - External Alterations
+  - Extensions
+  - St Mary Somerset
+  - Washbourne Greenwood Development Planning
+  - Local Planning Authority
+  - Archaeological Evaluation
+  - Building Regulations
+  - Architectural Designs
+topics:
+  - Urban Planning
+  - Heritage Conservation
+  - Construction Regulations
+  - Building Extensions
+  - Material Specifications
+  - Architectural Approvals
+  - Local Authority Permissions
+description: >
+  This document outlines the schedule of planning and listed building conditions attached to proposals for external alterations and extensions to the Tower of St Mary Somerset in EC4. It includes explicit conditions set by the Local Planning Authority that must be adhered to, approved drawings, materials, and architectural details needed for the project. The document is managed by Washbourne Greenwood Development Planning and entails both immediate and ongoing compliance actions.
+...
+```
+
 AR93372 - 19JUL2007 - Schedule of Conditions
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/44-1-a-2-AR93372%20-%2019JUL2007%20-%20Schedule%20of%20Conditions.pdf)
 
