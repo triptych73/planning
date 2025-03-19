@@ -1,3 +1,28 @@
+```yaml
+# ---
+# title: "Approval of Submission of Details"
+# file_name: "40-2-1-09_00644_MDC-APPROVAL_OF_SUBMISSION_OF_DETAILS-153163.txt"
+# keywords:
+#   - Town and Country Planning Act 1990
+#   - Planning permission
+#   - Listed building consent
+#   - Stonework details
+#   - Appeals process
+#   - City of London
+#   - St Mary Somerset Church
+#   - Planning application
+#   - Purchase notice
+# topics:
+#   - Urban planning
+#   - Architecture
+#   - Legal processes in planning
+#   - Building regulations
+#   - Heritage conservation
+# description: >
+#   This document is a formal approval of the submission of details related to planning application number 09/00644/MDC, concerning the modifications and extension to the Tower of St Mary Somerset Church in London. It details the approved materials and methods pursuant to specific conditions from prior planning permissions. The document also outlines rights of appeal and purchase notice under the Town and Country Planning Act 1990.
+# ---
+```
+
 # Department of Planning & Transportation
 
 **Peter Wynne Rees**  
