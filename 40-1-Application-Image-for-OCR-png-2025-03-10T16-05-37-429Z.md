@@ -1,3 +1,27 @@
+```yaml
+---
+keywords:
+  - Town and Country Planning Act 1990
+  - Planning Permission
+  - City of London
+  - Tower of St Mary Somerset Church
+  - Development Plan
+  - Residential Accommodation
+  - London Plan
+  - Listed Buildings
+  - Environmental Policies
+  - Urban Development
+topics:
+  - Urban Planning
+  - Architecture and Building Regulations
+  - Heritage and Conservation
+  - Urban Environmental Policies
+  - Residential Development
+description: >
+  This document details a conditional planning permission granted by the Common Council of the City of London for the alteration and extension of a historic church tower for residential use, following the City of London Unitary Development Plan 2002 and the London Plan. It includes the application specifics, conditions, and the policies considered in the decision.
+---
+```
+
 ```markdown
 # Town and Country Planning Act 1990
 
