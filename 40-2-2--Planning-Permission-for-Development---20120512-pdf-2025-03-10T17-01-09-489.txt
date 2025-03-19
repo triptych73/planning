@@ -1,3 +1,28 @@
+```yaml
+# ---
+# title: Planning Permission for Development
+# filename: 40-2-2--Planning-Permission-for-Development---20120512-pdf-2025-03-10T17-01-09-489.txt
+# date: 2025-03-10
+# description: Document detailing the granting of planning permission for the development of St Mary Somerset Church Tower in London, including conditions and relevant policies.
+# keywords:
+#   - Planning Permission
+#   - Development
+#   - City of London
+#   - Town and Country Planning Act
+#   - St Mary Somerset Church
+#   - Residential Accommodation
+#   - Listed Buildings
+#   - London Plan
+#   - Architectural Extension
+# topics:
+#   - Urban Planning
+#   - Environmental Policy
+#   - Housing and Development
+#   - Heritage and Conservation
+#   - City Ordinances
+# ---
+```
+
  City Planning Officer
 
 **Peter Wynne Rees**  
