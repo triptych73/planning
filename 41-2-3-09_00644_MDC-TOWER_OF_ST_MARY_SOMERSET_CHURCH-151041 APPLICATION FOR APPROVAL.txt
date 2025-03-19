@@ -1,3 +1,29 @@
+```yaml
+# Metadata for 41-2-3-09_00644_MDC-TOWER_OF_ST_MARY_SOMERSET_CHURCH-151041 APPLICATION FOR APPROVAL.txt
+---
+description: "This document is an application for approval under the Town and Country Planning Act 1990, regarding the external alterations and extension of the Tower of St. Mary Somerset Church in London. The project involves converting the existing tower into a single dwelling with ancillary office space. The document includes details about the application process, applicant and agent details, site information, pre-application advice, and planning conditions."
+keywords:
+  - Town and Country Planning Act 1990
+  - Planning (Listed Buildings and Conservation Areas) Act 1990
+  - City of London
+  - St. Mary Somerset Church
+  - Planning Application
+  - External Alterations
+  - Building Extension
+  - Conservation Area
+  - Historical Building
+  - Construction Approval
+  - Architectural Plans
+topics:
+  - Urban Planning
+  - Architecture
+  - Historical Preservation
+  - Government Regulations
+  - Legal Compliance
+  - Building Construction
+  - Property Development
+```
+
 09_00644_MDC-TOWER_OF_ST_MARY_SOMERSET_CHURCH-151041 APPLICATION FOR APPROVAL
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/41-2-3-09_00644_MDC-TOWER_OF_ST_MARY_SOMERSET_CHURCH-151041%20APPLICATION%20FOR%20APPROVAL.pdf)
 
