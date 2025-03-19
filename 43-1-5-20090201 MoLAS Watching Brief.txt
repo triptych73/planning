@@ -1,0 +1,274 @@
+20090201 MoLAS Watching Brief
+[Original Document](https://raw.githubusercontent.com/triptych73/planning/main/43-1-5-20090201%20MoLAS%20Watching%20Brief.pdf)
+
+---
+
+# St MARY SOMERSET  
+Lambeth Hill  
+London EC4  
+
+City of London  
+
+An archaeological watching brief report  
+
+February 2009  
+
+![Museum of London Archaeology Logo](https://example.com/logo.png)  
+
+**MUSEUM OF LONDON ARCHAEOLOGY**  
+
+# St MARY SOMERSET  
+**Lambeth Hill  
+London EC4**
+
+City of London
+
+**An archaeological watching brief report**
+
+---
+
+**Site Code:** SYO03  
+**National Grid Reference:** 532165 180880
+
+**Project Manager:** Sophie Jackson  
+**Author:** Isca Howell  
+**Graphics:** Sandra Rowntree
+
+---
+
+**Museum of London Archaeology**  
+© Museum of London 2009
+
+Mortimer Wheeler House, 46 Eagle Wharf Road, London N1 7ED  
+tel 020 7410 2200 fax 020 7410 2201  
+mlas@museumoflondon.org.uk  
+www.museumoflondonarchaeology.org.uk
+
+**[SY003] Watching brief report © MOL ARCHAEOLOGY**
+
+---
+
+### Summary (non-technical)
+
+This report has been commissioned by the client, Kate Renwick, in order to record and assess the results of a watching brief carried out at St Mary Somerset, Lambeth Hill, London, EC4.
+
+Two areas of investigation, located within the tower of the church and on the north side of the tower of the church, were monitored between the 6th November and the 11th November 2008, during the redevelopment of the tower as a residential property.
+
+The work was carried out in accordance with a Method Statement (MoLAS 2007), submitted to the City of London pursuant to Condition 10 of the planning permission (ref 05/00194/FULL).
+
+The present development largely exposed areas of ground which had been disturbed by 19th- and 20th-century developments. However, a short section of the west wall of the Wren church was recorded and a substantial quantity of disarticulated human skeletal remains was removed for reburial.
+
+---
+
+*i*
+
+P:\CITY\1000\1091\na\Field\WB 2008\WB.doc
+
+**Table of Contents**
+
+1. **Introduction**  
+   1.1 Site background .......................................................................................1  
+   1.2 The planning and legislative framework ..................................................1  
+   1.3 Planning background ...............................................................................1  
+   1.4 Origin and scope of the report .................................................................1  
+   1.5 Aims and objectives ................................................................................1  
+
+2. **Topographical and historical background** ..............................................3  
+   2.1 Topography ..............................................................................................3  
+   2.2 Roman .....................................................................................................3  
+   2.3 Medieval .................................................................................................3  
+   2.4 Post-medieval .........................................................................................3  
+
+3. **The watching brief** ....................................................................................5  
+   3.1 Methodology ............................................................................................5  
+   3.2 Results of the watching brief ...................................................................5  
+
+4. **Potential of archaeology** ...........................................................................7  
+   4.1 Original research aims ............................................................................7  
+   4.2 New research aims ..................................................................................8  
+   4.3 Significance of the data ..........................................................................8  
+
+5. **Publication and archiving** ..........................................................................9  
+
+6. **Acknowledgements** ..................................................................................10  
+
+7. **Bibliography** ..............................................................................................10  
+
+8. **NMR OASIS archaeological report form** ................................................11  
+
+---
+
+**List of Illustrations**
+
+*Front cover: Photograph of St Mary Somerset tower*
+
+- Fig 1 Site location  
+- Fig 2 Areas of investigation  
+- Fig 3 Photographs of the remains of the west wall of the Wren church exposed to north of the tower  
+- Fig 4 Historic plan of Wren’s church St Mary Somerset  
+
+---
+
+*ii*  
+*P:\CITY1000\1091\na\Field\WB 2008\WB.doc*
+
+
+**[SY003] Watching brief report © MOL ARCHAEOLOGY**
+
+# 1 Introduction
+
+## 1.1 Site background
+
+The watching brief took place at the Tower of St Mary Somerset, hereafter called ‘the site’. The Tower is bounded by Lambeth Hill to the north, St Mary Somerset Gardens to the east, Upper Thames Street to the south and pedestrian access to the west (see Fig.1). The centre of the site lies at National Grid reference 532163 180880. Modern pavement level near to the site lies at c 8.56m OD. The existing ground floor slab within the church tower lies at approximately 7.30m OD. The site code is SYO03.
+
+*A Method Statement for an archaeological watching brief* (Wroe-Brown 2007) was previously prepared. This document should be referred to for information on the natural geology, and archaeological background of the site.
+
+## 1.2 The planning and legislative framework
+
+The legislative and planning framework in which the archaeological exercise took place was summarised in the *Method Statement* which formed the project design for the watching brief (Wroe-Brown 2007, Section 1.2).
+
+## 1.3 Planning background
+
+The present watching brief was carried out with reference to Approved Planning Application No. 05/00194/FULL, Condition 10, which state that no development shall take place within the site until the developer has secured the implementation of a programme of archaeological work to be carried out in accordance with a written scheme of investigation which has been submitted and approved in writing by the local planning authority.
+
+## 1.4 Origin and scope of the report
+
+This report was commissioned by the client, Kate Renwick, and produced by the Museum of London Archaeology (MOL Archaeology). The report has been prepared within the terms of the relevant Standard specified by the Institute of Field Archaeologists (IFA 2001).
+
+The purpose of the watching brief was to determine whether archaeological remains or features were present on the site and, if so, to record the nature and extent of such remains. A number of more site-specific research aims and objectives were established in the preceding *Method Statement* (section 2.4), and are outlined in the following section.
+
+The purpose of the present report is to analyse the results against the original research aims, and to suggest what further work, including analysis or publication (if any), should now take place.
+
+## 1.5 Aims and objectives
+
+The following research aims and objectives were established in the *Method Statement* for the watching brief (Section 2.2):
+
+- What is the nature and level of natural topography?
+- What are the earliest deposits identified?
+- Is there any evidence of Roman structures or associated layers?
+- Do any Roman deposits remain on site?
+- Are there any remains, structural or otherwise, associated with the Medieval St. Mary Somerset Church (founded c 1153 and demolished during the 1666 Fire of London)?
+- Are there any remains of the foundations or floor levels of the St. Mary Somerset Church building as rebuilt by Wren (and demolished in 1872)?
+- What is the nature and depth of the foundations of the Tower of St Mary Somerset?
+- What is the nature and depth of floor levels within the Tower of St. Mary Somerset?
+- Are there any *in situ* human remains present on site? If so are they a part of the churchyard cemetery or are they located within the Tower?
+- Are there any disarticulated remains present on site? If so, do they form part of a cemetery soil or have they been redeposited within the later deposits associated with either the clearance and demolition of the church and churchyard, or the 1960’s redevelopment of the area?
+- Is there any evidence of post-medieval warehouses surviving on site? If so, any remaining walls retain some of the earlier masonry from the church?
+
+All research is undertaken within the priorities established in the Museum of London’s *A research framework for London Archaeology, 2002*.
+
+---
+
+2  
+P:\CITY1000\1091\na\Field\WB 2008\WB.doc
+
+# 2 Topographical and Historical Background
+
+## 2.1 Topography
+
+The estimated level of the surface of the natural gravel is c 4.5m OD to the north of St Mary Somerset. It falls away rapidly to the south towards the river.
+
+## 2.2 Roman
+
+The area immediately around the site in the Roman period is characterised by a series of masonry structures occupying the gravel terraces leading down to the river. The masonry structures include the Huggin Hill baths complex immediately to the east, part of which lies beneath Senator House. This was constructed in the later 1st century, and was extended several times prior to being demolished, possibly before the end of the 2nd century.
+
+To the north-west, under the site of the Salvation Army building, a series of Roman foundations were found. These were probably part of a temple precinct constructed on earlier rammed chalk terraces. Beyond that at Peter’s Hill, a series of structures which may include the unfinished palace of the imperial pretender, Allectus, were begun and abandoned in the last decade of the 3rd century. Immediately south of these was the riverside wall, built in c AD 270.
+
+## 2.3 Medieval
+
+The earliest references to St Mary Somerset are in the 12th century. Somerset is probably derived from Somershithe, a nearby wharf (Weinreb and Hibbert 1995, 765).
+
+Many of the streets in the area probably had their origins in the late-Saxon period, but are not recorded in any surviving documentary sources until later. The medieval street plan was retained after the 1666 Great Fire, but was lost following post-war redevelopment.
+
+Old Fish Street Hill (*Oldefisshestretlone* by 1345; *Baggardeslane* in 1274) formerly cut through the site. On the west side of Old Fish Street Hill, to the north-west of the site, was the church and churchyard of **St Mary Mounthaw** (first recorded in 1150), which may originally have been a private chapel of the Mounthaut family from Norfolk. A large message, originally owned by the Mounthauts, was adjacent to the church, perhaps on the north side.
+
+To the north-east of the site, and opposite **St Mary Mounthaw**, was the **Old Fishmongers’ Hall**. This was in use by the Fishmongers’ Company by 1398–9, but was abandoned in favour of the present site near London Bridge in 1503–4. Passing the north side of the Hall was **Finimore Lane** (*Finamoureslane* in 1316, also known as *Five foote lane* in the 16th century, present Fye Foot Lane). Thames Street to the south was probably in place in the late 11th or early 12th century as the main riparian road stretching across the City on the line of the collapsed late Roman riverside wall.
+
+## 2.4 Post-medieval
+
+The site area was affected by the Great Fire of 1666. **St Mary Mounthaw** was not rebuilt after the fire. The parish was amalgamated with **St Mary Somerset**, which was rebuilt by Wren in 1686–95. St Mary Somerset was demolished as a result of the Union of Benefices Act in 1872 following deconsecration in 1867. It was replaced by warehouses which appear to follow its wall lines, and may have retained some of the earlier masonry from the church. The tower was preserved as a memento, however, and remains today behind 95 Queen Victoria Street, being restored in 1956 following wartime damage. The nave lies beneath the present Lambeth Hill, with the north wall possibly under the pavement adjoining Walker House.
+
+Queen Victoria Street was constructed across an area of existing properties to the north in 1867–71, including the churchyard of St Nicholas Cole Abbey. It linked Victoria Embankment to the Bank of England, and also allowed the construction of the District Line beneath. The 1914 Ordnance Survey plan illustrates these properties. The late Victorian buildings that were eventually built had basements which removed most of the surviving archaeological resource in the north of the site.
+
+The main changes to the immediate area since the Second World War have included the construction of the Salvation Army Headquarters, Walker House, and Dominant House (now redeveloped), which led to the realignment of streets to the south of Queen Victoria Street. Lambeth Hill was moved to curve around Walker House, although Fye Foot Lane remained on its original site as an elevated walkway leading to a footbridge across Thames Street. The latter was widened on the south side with the addition of an extra carriageway.
+
+---
+
+**Page 4**
+
+P:\CITY1000\1091\na\Field\WB 2008\WB.doc
+
+# 3 The Watching Brief
+
+## 3.1 Methodology
+
+All archaeological excavation and recording during the watching brief was done in accordance with the **Method Statement** (Wroe-Brown 2007) and the Museum of London Archaeological Site Manual (Museum of London 1994).
+
+The paving was cleared by contractors under MOL Archaeology supervision. The areas of investigation were excavated by hand within the church tower and mechanically to the north of the tower. The excavations were undertaken by the contractors, and monitored by a member of staff from MOL Archaeology.
+
+The locations of the areas of excavation were recorded by offsetting from adjacent standing walls and then plotted onto the OS grid.
+
+The site has produced: 2 trench record sheets, 1 context sheet, 2 A4 1:20 plans, 1 A4 1:10 section drawing and 22 photographs. No finds were retained (also see Section 3.2.3).
+
+The site records can be found under the site code SYO03, which will be presented to the London Archaeological Archive and Research Centre (LAARC) within 12 months of the completion of fieldwork.
+
+## 3.2 Results of the Watching Brief
+
+In total, 2 separate interventions were made for the purposes of redevelopment. There follows a brief description of the archaeological deposits as recorded.
+
+For all trench locations see Fig 2.
+
+### 3.2.1 Interior of the Church Tower
+
+The entire internal ground floor of the church (TP5) was reduced by 700mm to approximately 6.60m OD. Only 20th-century floors and made ground were removed. The disturbed wall foundation, seen at 6.55m OD, in an earlier archaeological evaluation pit (Burton 2005) was not exposed. The backfill of the pit (TP3) was also excavated, and five 24 X 36 inch bags full of disarticulated human skeletal remains were recovered.
+
+### 3.2.2 North of the Church Tower
+
+To the north of the church tower, an area 7m by 1.60m (TP6) was reduced by 1.80m from c 7.30m OD to c 5.50m OD. This exposed a short section of the west wall of the Wren church [1] that extended north from the north-west corner of the tower (see Fig 3 and Fig 4) for c 0.90m. It was built of ragstone and flint, with occasional reused greensand stone. The structure had bands of coursed and squared ragstone blocks and was bonded on to the tower. It was cut to the north by a 19th/20th stock-brick retaining wall, which was aligned along the northern limit of excavation. The Wren wall was 1.20m wide and an elevation of 1.50m was observed. The highest remains of the Wren wall were recorded at c 7.00m OD but the remains continued below the limit of excavation at c 5.50m OD.
+
+To the west of the wall was the backfill of an earlier archaeological evaluation pit (Burton 2005), and to the east was 19th/20th backfill, presumably to fill the gap between the tower and the 19th/20th retaining wall caused by the construction of the latter. Thirty-five 24 X 36 inch bags full of disarticulated human skeletal remains were recovered from the backfill.
+
+Pile probing at the western and eastern ends of this area recorded natural sand at c 4.50m OD beneath the 19th/20th backfill.
+
+### 3.2.3 Reburial of disarticulated human skeletal remains
+
+The disarticulated human bone recovered during the watching brief consisted of forty 24 X 36 inch bags that were taken for reburial at East London Cemetery, Plaistow, in accordance with the Home Licence for the Removal of Human Remains (Licence Number 08-0147).
+
+---
+
+6 P:\CITY1000\1091\na\Field\WB 2008\WB.doc
+
+
+**4 Potential of Archaeology**
+
+## 4.1 Original Research Aims
+
+- **What is the nature and level of natural topography?**  
+  Natural sand was recorded at c 4.50m OD by two boreholes to the north of the church tower.
+
+- **What are the earliest deposits identified?**  
+  A short section of the west wall of Wren’s church was recorded at the north-west corner of the tower.
+
+- **Is there any evidence of Roman structures or associated layers?**  
+  There was no evidence of any Roman remains on the site.
+
+- **Do any Roman deposits remain on site?**  
+  There was no evidence of any Roman remains on the site.
+
+- **Are there any remains, structural or otherwise, associated with the Medieval St. Mary Somerset Church (founded c1153 and demolished after the 1666 Fire of London)?**  
+  There was no evidence for any remains of the medieval church.
+
+- **Are there any remains of the foundations or floor levels of the St. Mary Somerset building as rebuilt by Wren (and demolished in 1872)?**  
+  A short section of the west wall of Wren’s church was recorded at the north-west corner of the tower.
+
+- **What is the nature and depth of the foundations of the Tower of St Mary Somerset?**  
+  The foundations of the Tower of St Mary Somerset were observed to c 5.50m OD. These consisted of squared and roughly squared ragstone blocks arranged in courses with ‘step-outs’ at c 7.00m OD and c 6.50m OD. There were three courses of brick and tile above the c 6.50m OD ‘step-out’. The base of the foundations was not observed.
+
+- **What is the nature and depth of floor levels within the Tower of St. Mary Somerset?**  
+  There was no evidence for the remains of any floor levels within the Tower of St. Mary Somerset.
+
+- **Are there any in situ human remains present on site? If so are they a part of the churchyard cemetery or are they located within the Tower?**  
+  No in situ human remains were present on the site.
+
+- **Are there any disarticulated remains present on site? If so, do they form part of a cemetery soil or have they been redeposited within the later deposits associated with either the clearance and demolition of the church and churchyard, or the 1960’s redevelopment of the area?**  
+  Forty 24 X 36 inch bags of disarticulated human skeletal remains were
