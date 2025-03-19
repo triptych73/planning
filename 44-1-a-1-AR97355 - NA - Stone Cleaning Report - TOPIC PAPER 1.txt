@@ -1,3 +1,29 @@
+```yaml
+# Metadata
+title: "Stone Cleaning Report - Topic Paper 1"
+filename: "44-1-a-1-AR97355 - NA - Stone Cleaning Report - TOPIC PAPER 1.txt"
+keywords: 
+  - stone cleaning
+  - tower of St Mary Somerset
+  - condition discharge
+  - soot accumulation
+  - stonework repair
+  - aesthetic considerations
+  - conservation
+  - English Heritage
+  - City of London
+  - building at risk
+  - patina
+  - lead flashings
+topics: 
+  - Architectural conservation
+  - Heritage building management
+  - Urban design
+  - Structural preservation
+description: >
+  This document is a report focusing on the cleaning and repair methodology for the Tower of St Mary Somerset in London. It discusses the aesthetic considerations versus structural needs, proposes spot cleaning for soot-affected areas, and details repair strategies to be developed in consultation with English Heritage and the City of London. The report also addresses the building's condition as a "Building at Risk" and suggests adding lead flashings to cornices to prevent rainwater damage.
+```
+
 AR97355 - NA - Stone Cleaning Report - TOPIC PAPER 1
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/44-1-a-1-AR97355%20-%20NA%20-%20Stone%20Cleaning%20Report%20-%20TOPIC%20PAPER%201.pdf)
 
