@@ -1,3 +1,40 @@
+```yaml
+# ---
+# title: "Planning Permission for Development at St Mary Somerset Church"
+# filename: "40-1-2--Planning-Permission-for-Development---20120512-pdf-2025-03-11T16-04-43-289Z.txt"
+# author: "Peter Wynne Rees"
+# department: "Department of Planning & Transportation, Corporation of London"
+# date_of_issue: "2005-05-12"
+# case_officer: "Claire Brady"
+# reference: "05/00194/FULL"
+# location: "Tower of St Mary Somerset Church, 211 Upper Thames Street, London EC4"
+# proposal: "External alterations and extension for use as a single dwelling house with ancillary office accommodation"
+# topics:
+#   - Town and Country Planning Act 1990
+#   - Unitary Development Plan 2002
+#   - London Plan
+#   - Heritage conservation
+#   - Urban development
+#   - Residential accommodation
+#   - Archaeology preservation
+# keywords:
+#   - Planning permission
+#   - City of London
+#   - Listed Building alterations
+#   - Residential use
+#   - Environmental considerations
+#   - Architectural assessment
+#   - Development conditions
+#   - Applicant’s rights
+# description: >
+#   This document grants planning permission for the development at the Tower of St Mary Somerset Church, London,
+#   involving external alterations and extensions to convert it into a single dwelling with office space. The approval 
+#   is conditional based on compliance with specified policies from the Unitary Development Plan 2002 and consideration 
+#   of archaeological and urban planning requirements. The document includes detailed conditions and informatives pertinent 
+#   to the conservation and development process aligned with City of London's planning strategies.
+# ---
+```
+
 **The City Planning Officer**
 
 Peter Wynne Rees BSc, BArch, BTP, RIBA, FRTPI, FRSA
