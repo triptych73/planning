@@ -1,0 +1,208 @@
+974 St Mary Somerset Report on Structural Condition of Existing Timber Joists June 2014
+[Original Document](https://raw.githubusercontent.com/triptych73/planning/main/43-1-3-974%20St%20Mary%20Somerset%20Report%20on%20Structural%20Condition%20of%20Existing%20Timber%20Joists%20June%202014.pdf)
+
+---
+
+# Tower of St Mary Somerset, London
+
+**Tower of St Mary Somerset**  
+Lambeth Hill  
+EC4V 4AG  
+
+**Report on Structural Condition of Existing Timber Joists**
+
+---
+
+**Project No 974**  
+June 2014  
+
+---
+
+![integral logo](#)  
+**integral**  
+*engineering design*
+
+**Revision**
+
+| Date          | Revision | Comments   |
+|---------------|----------|------------|
+| 16 June 2014  | /        | First issue|
+
+---
+
+**Quality Assurance Review**
+
+**Prepared by:** Margaret Cooke  
+**Signature**
+
+**Reviewed by:** Tim Mander  
+**Signature**
+
+**Date:** 17 June 2014
+
+---
+
+**Contents**
+
+1. Introduction
+2. Brief and Inspections
+3. History and Geology
+4. Description, Assessment and Recommendations
+5. Conclusions
+
+---
+
+This report is for the exclusive use of the client and should not be used in whole or in part by any third parties without the express permission of Integral Engineering Design. This report should not be relied upon exclusively by the Client for decision making purposes and may require reading with other material or reports.
+
+---
+
+**Integral Engineering Design**  
+Tollbridge Studios Toll Bridge Road Bath BA1 7DE  
+01225 859657  
+mc@integral-engineering.co.uk  
+integral-engineering.co.uk
+
+# Structural Condition Report on Timber Joists
+
+## 1. Introduction
+
+St Mary Somerset is a Grade I listed tower on Upper James St in the City of London and is on the English Heritage Buildings at Risk register. The building is currently owned by City of London Corporation, but the intention is to let the building on a long lease on condition that it is repaired and new works carried out to allow the building to be inhabited as a domestic property.
+
+## 2. Brief and Inspections
+
+Integral were appointed by Greg Renwick to carry out a visual inspection of the existing timber joists. While on site we also looked at the pinnacles and the 1950s concrete strengthening beams.
+
+We were asked to provide advice because of our conservation experience, but the overall engineering of the building is to be carried out by Cistec of Milton Keynes. This initial advice will need to be supplemented by them once full scaffold access is available.
+
+This report is based on a single visual inspection carried out on 11 June 2014. The purpose was to see if there were areas of serious structural concern and to get an impression of the condition of the timbers. This report does not, therefore, constitute a full inspection. We accessed each level of the building using the stone spiral stair to the north east corner. In some areas we were able to get close to the timbers and physically feel for damp and deterioration, but in other areas we could see only from a distance. Once work starts on the building, therefore, an experienced person should check the condition of each section in detail. Any advice given in the report is therefore for information only and assumes a further detailed check by the project engineer or other suitably qualified person.
+
+We have not been asked to comment on any of the proposed structural alteration or the overall effect of those alterations on the building.
+
+## 3. History and Geology
+
+St Mary Somerset was built between 1685 and 1964 to a design by Christopher Wren as a replacement for the earlier church, which was destroyed in the Great Fire of 1666. The history of the church is set out in detail in Robert Bowles’ report of 2005. The key structural facts for the purposes of this report are:
+
+- The body of the church was demolished in mid 1800s, leaving just the tower
+- The parish was extremely poor and this, along with scarcity of materials, appears to have led to the use of lower quality stone and brick than might normally been expected in the structure.
+- The pinnacles were removed for repair in the 1950s and reinstated using the techniques of the time
+- A grillage of concrete strengthening beams at 2/3 height of the tower was inserted at this time.
+
+Robert Bowles’ report records the changes to the site over time as the City of London grew up around the building. The tower is likely to be founded on London clay or possibly on gravel overlying London clay. In that report he warns that it is possible that the tower is founded on timber piles but that this will only become a problem if the water table fluctuates sufficiently that the piles are allowed to deteriorate. This is something which has not changed since that report was written and should be monitored in the future.
+
+---
+
+**Integral Engineering Design**  
+*First Issue*
+
+# 4. Description, Assessment and Recommendations
+
+Generally the building appears to be in reasonable condition structurally. We saw no sign of overall structural distress and where deterioration has occurred it appears to be linked to water ingress or to previous inappropriate repair.
+
+### Levels
+
+- **Level 10 – Roof Level**
+- **Level 9**
+- **Level 7**
+- **Level 5**
+- **Level 4**
+- **Ground Level**
+
+The section above is by Boyarsky Murphy Architects and the levels shown are referred to throughout this report.
+
+---
+
+**Structural condition report on timber joists**  
+_First issue_
+
+## 4.1 Level 4
+
+At level 4 the timbers generally appeared to be in good condition where visible. The joist ends were not visible at the connection with the wall, which will be the most vulnerable position. These should be checked by the contractor when the works are on site, but there is no particular reason to suppose that they will not be sound. The exception to this is in the north west corner of the room where there has clearly been some water ingress. All timbers in that vicinity should be carefully checked once works commence and it would be prudent to budget for like for like replacement of timbers in that area.
+
+## 4.2 Level 5
+
+We understand that the relatively new joists at level 5 are to be replaced with a new floor structure and the condition of these joists is therefore less important in the long term. We assume, however, that the floor may be used temporarily during the works and it is therefore important to note that the joist ends in the north west corner (adjacent to the down pipe) have rotted away entirely due to water ingress. This end of the floor should therefore be propped if it is to be used temporarily.
+
+**Figure 1** - Level 5 joists north west corner
+
+**Figure 2** - Underside level 5 looking south
+
+---
+
+**First Issue**
+
+## 4.3 Level 7
+
+The floor at this level appears to be the original oak structure. Generally it appears to be in good condition except two areas which have suffered from water ingress.
+
+The first area of concern is, again, the north west corner. Here the immediately adjacent floor joist and boarding have clearly deteriorated due to water ingress. However, the primary beam into the north wall appears to be dry and solid. The beam end sits in a pocket in the wall with good air circulation around it and this detail has probably contributed to its current condition. As a general note, where timber beam ends sit into walls they benefit from easy passage of air to remove any moisture. If there are pockets around the beam that need to be filled as part of the finishing work they should not be concreted into position, but instead matching bricks should be selected and the beam simply wedged, allowing the air to circulate.
+
+The other place where water appears to have done damage is to the trimming beam across the west arched louvred window. The trimmer beam generally is 110mmwd x 120mm dp. A quick calculation (assuming domestic live load, no ceiling below and low quality oak) shows that a section of 100mm wd x 60mm dp would be sufficient. This obviously must be checked by the engineer for the project, but give some reassurance that the current loss of section should not be a major concern and that the section may have sufficient capacity for the future use.
+
+*Figure 3 - underside level 7, red circles indicate two areas of distress*
+
+---
+
+*Structural condition report on timber joists*  
+*First issue*
+
+## 4.4 Level 9
+
+At this level there is currently a grillage of concrete beams put in by the Corporation of London in the 1950s, presumably to add some rigidity to the tower. We understand that this is to be replaced by a new floor structure, which will replace the structural action of the beams.
+
+![Figure 4 - underside level 9 showing concrete grillage of beams](#)
+
+## 4.5 Roof Level
+
+The structure under the lead roof could not be seen and we therefore cannot comment on its condition but we assume that it is a timber structure. Given its exposed position and the number of years since it was last repaired it seems prudent, for budgeting purposes, to assume that complete replacement may be required. Obviously the condition should be assessed once access is available and if elements of the original structure remain in good condition then they should be retained, as grade I listed historic fabric.
+
+---
+
+*Structural condition report on timber joists*  
+*First issue*
+
+## 4.6 Walls
+
+Internally the brickwork generally appears to be in reasonable condition. The face of the brickwork has been damaged adjacent to the rainwater down pipe in the north west corner and this should be assessed further. Given the thickness of the walls it seems unlikely that this, apparently surface, damage will be important structurally, but this should be assessed by the engineers for the project. Obviously the brickwork in that area may still be relatively wet and will need time to dry before any moisture sensitive finishes are applied. As a general note traditional finishes (such as lime plaster) which allow the passage of moisture are likely to be more successful than modern hard finishes (such as gypsum plaster).
+
+![Figure 5](image)  
+**Figure 5 - water damage to brickwork**
+
+![Figure 6](image)  
+**Figure 6 - crack over window arch**
+
+There is some cracking over each arched window/door opening, but this does not appear to be structurally significant. Additional floors will tend to help to tie the building together so this situation is likely to be improved by the proposed works.
+
+---
+
+*Structural condition report on timber joists*  
+*First issue*
+
+## 4.7 Pinnacles
+
+The pinnacles were original to the building and there are no reports that they have ever fallen. Given the age of the building, therefore, it seems reasonable to assume that the basic geometry of the pinnacles is good and that any problems are likely to occur because of deterioration of the materials.
+
+The pinnacles were removed for repair in the 1950s and when returned were put back using iron cramps between the stones. The cramps are now corroding and there is clear movement in the pinnacles where the rusting is lifting the stonework. This is a clear concern, as obviously any falling stonework from this height would do considerable damage. We suggest that a metal detector should be used to identify all the iron cramps in the stonework so that the extent of the problem can be assessed. In particular there may be iron pins down the centre of the pinnacles and the urns. This may be sufficiently “buried” that it is hard to detect. It may also be sufficiently buried that the stone has provided protection and the metal is on good condition, but this should be checked.
+
+![Figure 7](image-url)  
+*Figure 7 - typical centre pinnacle*
+
+![Figure 8](image-url)  
+*Figure 8 - centre pinnacle highlighting deteriorating iron cramp*
+
+In general works at this height require expensive scaffolding and therefore should be carried out with a view to longevity as far as budget allows. If budget cuts are necessary then it is always good to prioritise high and difficult to access areas, leaving lower and easy access areas for future phases if necessary.
+
+We suggest that the pinnacles be assessed by a stone mason with conservation experience and that they should work alongside the design team to provide advice on extent of repairs and appropriate repair techniques. English Heritage will obviously be interested in these works and an appropriately experienced mason should be able to describe the approach and the extent of the works to their satisfaction. We or your project engineers can provide additional advice on this if required.
+
+---
+
+*Structural condition report on timber joists*  
+*First issue*
+
+# 5. Conclusions
+
+Generally the tower appears to be in reasonable condition. Issues have occurred either due to water ingress or to inappropriate previous repair. The timber floors appear generally to be in reasonable condition except where water ingress has done local damage, particularly down the line of the internal rainwater downpipe. The area which requires most urgent attention is the pinnacles which are already deteriorating due to corrosion of metal cramps. This situation is likely to progress with increasing speed and a budget for assessment and repair by an experienced mason should be a priority in the proposed works.
+
+---
+
+*Structural condition report on timber joists*  
+*First issue*
