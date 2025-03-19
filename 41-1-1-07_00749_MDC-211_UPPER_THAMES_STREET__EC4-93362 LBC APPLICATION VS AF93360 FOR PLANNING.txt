@@ -1,3 +1,25 @@
+```yaml
+---
+filename: "41-1-1-07_00749_MDC-211_UPPER_THAMES_STREET__EC4-93362 LBC APPLICATION VS AF93360 FOR PLANNING.txt"
+
+keywords:
+  - Upper Thames Street
+  - planning application
+  - listed building consent
+  - conservation area
+  - architectural alterations
+  - Washbourne Greenwood Development Planning
+
+topics:
+  - Urban planning
+  - Heritage conservation
+  - Property development
+
+description: >
+  This document is a planning application related to the site of Tower of St Mary Somerset at 211 Upper Thames Street, London. It involves the submission of details to discharge conditions from previous planning and listed building consents granted by the City of London, concerning internal and external alterations and an extension for additional floor space. The document is addressed to the City of London Planning Department and includes various application forms, schedules, and correspondence detailing the conditions for approval.
+--- 
+```
+
 07_00749_MDC-211_UPPER_THAMES_STREET__EC4-93362 LBC APPLICATION VS AF93360 FOR PLANNING
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/41-1-1-07_00749_MDC-211_UPPER_THAMES_STREET__EC4-93362%20LBC%20APPLICATION%20VS%20AF93360%20FOR%20PLANNING.pdf)
 
