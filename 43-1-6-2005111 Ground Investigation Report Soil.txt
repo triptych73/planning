@@ -1,0 +1,437 @@
+2005111 Ground Investigation Report Soil
+[Original Document](https://raw.githubusercontent.com/triptych73/planning/main/43-1-6-2005111%20Ground%20Investigation%20Report%20Soil.pdf)
+
+---
+
+# Soil Consultants Ltd
+
+*Ground investigation | Geotechnical analysis | Environmental appraisal*
+
+Tel: 01494 712494 Fax: 01494 713922 mail@soilconsultants.co.uk
+
+Chiltern House  
+Earl Howe Road  
+Holmer Green  
+High Wycombe  
+Bucks HP15 6QT  
+
+---
+
+# GROUND INVESTIGATION REPORT
+
+**ST MARY SOMERSET TOWER**  
+**CASTLE BAYNARD STREET**  
+**LONDON EC4**
+
+---
+
+**GÉRARD HUGUENIN**  
+Ground Works Specialist  
+19 Dunstans Road  
+Hanwell  
+London W7 2EY  
+
+---
+
+4051/KB/AW  
+
+11 November 2005  
+
+---
+
+www.soilconsultants.co.uk  
+Registered No. 1814762 at  
+35/37 Belmont Road, Uxbridge,  
+Middlesex UB8 1RH  
+VAT No 491 8249 15  
+
+---
+
+**DIRECTORS**  
+Ken Bangs, MSc, L.Eng, MICE, FGS  
+
+Bur.Ing. Terry Rickerard, BSc, MSc,  
+C.Eng, C. Geol, MICE, MIMM, FGS  
+
+**4051/KB/AW**
+
+**Ground Investigation – St Mary Somerset Tower, Castle Baynard Street, London EC4**
+
+---
+
+## CONTENTS
+
+1.0 **INTRODUCTION**  
+2.0 **EXPLORATORY WORK**  
+3.0 **GROUND CONDITIONS**  
+&nbsp;&nbsp;&nbsp;&nbsp;3.1 Made Ground  
+&nbsp;&nbsp;&nbsp;&nbsp;3.2 Gravel  
+&nbsp;&nbsp;&nbsp;&nbsp;3.3 London Clay  
+&nbsp;&nbsp;&nbsp;&nbsp;3.4 Ground Water  
+4.0 **DISCUSSION**  
+&nbsp;&nbsp;&nbsp;&nbsp;4.1 Pile Design Parameters  
+&nbsp;&nbsp;&nbsp;&nbsp;4.2 Ground Floor Slab  
+&nbsp;&nbsp;&nbsp;&nbsp;4.3 Foundation Concrete  
+
+---
+
+1  
+1  
+2  
+&nbsp;&nbsp;&nbsp;&nbsp;2  
+&nbsp;&nbsp;&nbsp;&nbsp;2  
+&nbsp;&nbsp;&nbsp;&nbsp;3  
+&nbsp;&nbsp;&nbsp;&nbsp;3  
+3  
+&nbsp;&nbsp;&nbsp;&nbsp;3  
+&nbsp;&nbsp;&nbsp;&nbsp;5  
+&nbsp;&nbsp;&nbsp;&nbsp;5  
+
+**4051/KB/AW**  
+*Ground Investigation – St Mary Somerset Tower, Castle Baynard Street, London EC4*
+
+---
+
+## 1.0 INTRODUCTION
+
+It is proposed to construct an extension to the Tower of St Mary Somerset. An exploratory borehole has therefore been constructed to assist in the design of the planned piled foundations.
+
+This report presents the data obtained from a single exploratory borehole and then provides parameters to assist in the design of a piled foundation.
+
+## 2.0 EXPLORATORY WORK
+
+The borehole was constructed by cable percussive techniques in the position shown on the appended site plan. The borehole was taken to a depth of 25m during which in-situ Standard Penetration Tests (SPT) were carried out in the made ground and natural gravel and both SPT tests and undisturbed samples were obtained in the underlying London Clay. Small disturbed samples were obtained throughout and all the samples were taken to our laboratory for examination and testing.
+
+Laboratory testing comprised quick undrained triaxial compression tests on all the undisturbed samples of clay and sulphate/pH determinations on selected samples of made ground and natural clay.
+
+The results of this testing and the borehole record are presented in the Appendix.
+
+---
+
+**SOIL CONSULTANTS LTD**
+
+**4051/KB/A/W**
+
+**Ground Investigation – St Mary Somerset Tower, Castle Baynard Street, London EC4**
+
+---
+
+## 3.0 GROUND CONDITIONS
+
+The Geological Survey map of the area indicates that alluvium is present overlying London Clay with London Clay shown to outcrop immediately to the north. The borehole has encountered a significant depth of made ground overlying a thin deposit of gravel and then London Clay.
+
+### 3.1 Made Ground
+
+The measured thickness of made ground at the borehole position is 5.55m. Beneath the paving slab/concrete sub-base, soft/loose grey sandy clay with brick, chalk, concrete and stones is present to around 5.55m. At 3.3m depth, however, an obstruction, believed to be old foundations was met. Chiselling techniques were employed and made some progress to 3.7m after 1.5 hours but the obstruction was not penetrated. Thus, the decision was made to abandon the position and the rig was moved over a short distance and the borehole re-drilled.
+
+Standard Penetration Tests produced ‘N’ values of between 1 and 3 which is indicative of soft/loose conditions.
+
+### 3.2 Gravel
+
+At 5.55m depth, gravel with grey sand is present, containing thin clay lenses which extends to 6.15m. An SPT ‘N’ value of 19 was measured which indicates a medium dense condition.
+
+---
+
+**SOIL CONSULTANTS LTD**
+
+**4051/KB/AW**  
+**Ground Investigation – St Mary Somerset Tower, Castle Baynard Street, London EC4**  
+
+---
+
+### 3.3 London Clay
+
+A weathered zone of firm to stiff becoming stiff brown fissured clay is present between 6.15m and 9.45m before typical stiff becoming very stiff grey fissured clay with occasional fine sand lenses is met and proved to at least 25m depth. A strength versus depth graph is given in the Appendix which should be used to derive pile design parameters.
+
+### 3.4 Ground Water
+
+Ground water was met initially as a seepage at 3.7m depth and then as a fast inflow within the gravel stratum. Temporary steel lining tubes driven a short distance into the London Clay achieved a seal although at 13m depth a further seepage of water was noted.
+
+Upon completion of the borehole, a 6m deep standpipe was installed to permit further observations of the water table to be made.
+
+## 4.0 DISCUSSION
+
+It is evident from the ground conditions encountered that shallow foundations will not be viable and hence piled foundations are likely to be the most suitable solution to support a new structure.
+
+### 4.1 Pile Design Parameters
+
+The piles will need to penetrate the significant depth of made ground and derive load capacity from the London Clay. Negative skin friction could develop on the upper levels of the pile shaft if the soft/loose made ground was to undergo long-term settlement. The risk of such.
+
+---
+
+**SOIL CONSULTANTS LTD**
+
+**4051/KB/AW**
+
+**Ground Investigation – St Mary Somerset Tower, Castle Baynard Street, London EC4**
+
+---
+
+Settlement occurring would depend to some extent on the degree of disturbance the fill may undergo during the development as well as other factors. This aspect should therefore be assessed by experienced piling contractors.
+
+Some form of rotary augered or continuous flight augered (cfa) type of bored pile is likely to be appropriate. For open hole drilling techniques temporary lining will be necessary to exclude the ground water encountered at around 6m depth. The restricted access conditions are also likely to be an important factor in choosing a suitable piling technique.
+
+The following parameters may be used for the design of bored piles:
+
+**Ultimate Adhesion** (incorporating Alpha = 0.45) | **kN/m²**  
+---|---  
+Existing GL to 6m | Made Ground | see text  
+6m to 25m | London Clay | 54 increasing linearly to 108  
+
+**Ultimate End Bearing** (incorporating Nc = 9) for pile diameters up to 600mm
+
+In London Clay | between 10m and 25m | 1310 increasing linearly to 2160
+
+These parameters are based upon 38mm diameter laboratory test specimens for which an Alpha Factor of 0.45 is appropriate; this value should not be varied.
+
+We recommend that a factor of safety of 3 should be adopted with these parameters to derive the working load of a single pile. Final design should be formulated in consultation with specialist contractors.
+
+---
+
+**SOIL CONSULTANTS LTD**
+
+**4051/KB/AW**
+
+**Ground Investigation – St Mary Somerset Tower, Castle Baynard Street, London EC4**
+
+---
+
+### 4.2 Ground Floor Slab
+
+We recommend that the ground slab for the extension is designed as a fully suspended unit to avoid reliance on the weak made ground.
+
+### 4.3 Foundation Concrete
+
+Low concentrations of soluble sulphate were measured in selected soil samples in association with near-neutral/slightly alkaline pH values. The design class is DS-1 and in accordance with BRE Special Digest 1 (3rd Edition: 2005), the ACEC site classification for buried concrete is shown to be AC-1 for a mobile ground water condition. However, further consultation of this digest is recommended before any particular design is adopted.
+
+---
+
+**SOIL CONSULTANTS LTD**
+
+**FOREWORD - GUIDANCE NOTES**
+
+**GENERAL**  
+The Borehole Records are compiled from the driller’s description of the strata encountered, an examination of the samples by our Geotechnical Engineer and the results of in-situ and laboratory tests. Based on this data, the report presents an opinion on the configuration of strata within the site. However, such reasonable assumptions are given for guidance only and no liability can be accepted for changes in conditions not revealed by the boreholes.
+
+**BORING METHODS**  
+The Cable Percussion technique of boring is normally employed and allows the ground conditions to be reasonably well established. However, some disturbance of the ground is inevitable, particularly some “softening” of the upper zone of clay immediately beneath a granular soil. The presence of thin layers of different soils within a stratum may not always be detected.
+
+**GROUND WATER**  
+The depth at which ground water was struck is entered on the Borehole Records. However, this observation may not indicate the true water level at that period. Due to the speed of boring and the relatively small diameter of the borehole, natural ground water may be present at a depth slightly higher than the water strike. Moreover, ground water levels are subject to variations caused by changes in the local drainage conditions and by seasonal effects. When a moderate inflow of water does take place, boring is suspended for at least 10 minutes to enable a more accurate short-term water level to be achieved. An estimate of the rate of inflow is also given. This is a relative term and serves only as a guide to the probable flow of water into an excavation.
+
+Further observations of the water level made during the progress of the borehole are shown including end of shift and overnight readings and the depth at which water was sealed off by the borehole casing, if applicable.
+
+Whilst drilling through granular soils, it is usually necessary to introduce water into the borehole to permit their extraction. When additional water has been used a remark is made on the Borehole Record and the implications are discussed in the text.
+
+**SAMPLES**  
+Undisturbed samples of the predominantly cohesive soils are obtained using a 100mm diameter open-drive sampler. In granular soils, disturbed bulk samples are taken and placed in polythene bags. Small jar samples are taken at frequent intervals in all soils for subsequent visual examination. Where ground water is encountered in sufficient quantity, a sample of the ground water is also taken.
+
+**IN-SITU STANDARD PENETRATION TESTS**  
+This test is performed in accordance with the procedure given in B.S.1377:1990. The individual blow count record for each test is given on a separate table. The ‘N’ value is normally the number of blows to achieve a penetration of 0.3m following a seating distance of 0.15m and is quoted at the mid-depth of the test zone. However if a change of stratum occurs within the test zone then a revised ‘N’ value is calculated to assess one layer in particular. In hard strata full penetration may not be obtained. In such cases the suffix + indicates that the result has been extrapolated from the limited penetration achieved. Where ground water has affected the measured values, the resultant ‘N’ values has been placed in brackets since it is unlikely to represent the true in-situ density of the soil.
+
+**Contract & Location**  
+St Mary Somerset Tower, Castle Baynard Street, London EC4.
+
+**Client**  
+Gerard Huguenin (Ground Works Specialists)
+
+**Borehole**  
+BH 1
+
+**Sheet**  
+1 of 3
+
+**Report No**  
+4051-KB
+
+---
+
+### Comments
+
+- Borehole dia. 150mm  
+  Started on 14 Oct 2005
+
+- **Chiselled on footings**  
+  3.3-3.7 for 1.5hrs  
+  Unable to penetrate;  
+  BH moved & redrilled  
+  Seepage inflow - 3.70
+
+- **Water sealed at 5.00**
+
+- **Fast inflow at 5.60**
+
+- **Standpipe tip at 6.00**
+
+- **Water sealed at 6.80**
+
+- **Water level p.m. dry.**  
+  Casing at 8.80  
+  BH continued 17 Oct  
+  Water level a.m. dry.
+
+---
+
+### Samples
+
+- **Type Depth**  
+  - B 0.60  
+  - B 1.00  
+  - B 1.70  
+  - S J 1.80  
+  - S J 2.80  
+  - B 3.70  
+  - S J 4.85  
+  - J 5.30  
+  - C B 5.85  
+  - J 6.50  
+  - U 7.05  
+  - J 8.00  
+  - S J 8.85  
+  - J 9.50
+
+---
+
+### SPT (N)
+
+- **Depth (m)**  
+  - 0.20  
+  - 0.60  
+  - 1.00  
+  - 1.70  
+  - 1.80  
+  - 2.80  
+  - 3.30  
+  - 3.70  
+  - 4.95  
+  - 5.55  
+  - 6.15  
+  - 7.05  
+  - 8.00  
+  - 9.65
+
+---
+
+### Strata Description
+
+- **0.20 m**  
+  Paving slab over concrete.
+
+- **1.00 m**  
+  Made Ground - loose dark brown/grey sandy clay with fragments of brick, chalk, lime mortar, concrete, occasional roots, stones and oyster shell.
+
+- **3.30 m**  
+  Made Ground - footings (driller's description) - not penetrated.
+
+- **3.70 m**  
+  Made Ground - soft grey clay with stones, brick fragments and traces of carbonaceous matter.
+
+- **4.95 m**  
+  Made Ground - firm dark grey clay with scattered stones and brick fragments.
+
+- **5.55 m**  
+  Medium dense gravel with gray sand and thin lenses of grey clay.
+
+- **6.15 m**  
+  Firm to stiff initially then stiff brown fissured clay with blue staining on fissures.
+
+- **9.65 m**  
+  Stiff grey fissured clay.
+
+---
+
+**Legend**
+
+- **0**  
+- **1**  
+- **2**  
+- **3**  
+- **4**  
+- **5**  
+- **6**  
+- **7**  
+- **8**  
+- **9**  
+- **10**
+
+---
+
+**Constructed by Cable Percussion Techniques**  
+U = Undisturbed  
+B = Bulk  
+J = Jar  
+W = Water  
+Scale = 1:50
+
+**Remark:**  
+**Borehole**  
+BH 1
+
+**Contract:** St Mary Somerset Tower, Castle Baynard Street, London EC4.
+
+**Client:** Gerard Huguenin (Ground Works Specialists)
+
+**Borehole No:** BH 1  
+**Sheet:** 2 of 3  
+**Report No:** 4051-KB
+
+---
+
+### Borehole Details
+
+- **Borehole dia.:** 150mm
+
+| Samples Type Depth | SPT (N) | Depth (m) | Strata Description | Legend |
+|--------------------|---------|-----------|---------------------|--------|
+| U 10.05            |         | 10        | Stiff grey fissured clay. | 10 X |
+| J 11.00            |         | 11        |                     | 11 -  |
+| S J 11.85          | 33      | 12        |                     | 12 X  |
+|                    |         | 12.35     | Very stiff grey fissured clay with occasional light grey fine sand lenses mainly between 12.35m and 18m. | 13 X |
+| J 12.50            |         | 13        |                     | 14 X  |
+| U 13.05            |         | 14        |                     | 15 X  |
+| J 14.00            |         | 15        |                     | 16 -  |
+| S J 14.85          | 38      | 16        |                     | 17 -  |
+| J 15.50            |         | 17        |                     | 18 X  |
+| U 16.05            |         | 18        | Claystone at 18.1m. | 19 -  |
+| J 17.00            |         | 19        |                     | 20 -  |
+| S J 17.85          | 38      | 20        |                     |        |
+
+**Seepage Inflow:** -13.00  
+**Inflow not sealed**
+
+**Chiselled for 1 Hr on claystone**
+
+---
+
+**Constructed by:** Cable Percussion Techniques  
+**Legend:** U = Undisturbed, B = Bulk, J = Jar, W = Water  
+**Scale:** 1:50
+
+**Remark:**  
+**Borehole No:** BH 1
+
+**Contract**  
+St Mary Somerset Tower, Castle Baynard Street, London EC4.
+
+**Client**  
+Gerard Huguenin (Ground Works Specialists)
+
+**Borehole Details**  
+- **Borehole dia.:** 150mm  
+- **Borehole No:** BH 1  
+- **Sheet:** 3 of 3  
+- **Report No:** 4051-KB  
+
+| **Samples** | **SPT** | **Depth** | **Strata Description** | **Legend** |
+|-------------|---------|-----------|------------------------|------------|
+| **Type Depth** | **(N)** | **m** | | |
+| S J 20.85 | 45 | | Very stiff grey fissured clay with occasional light grey fine sand lenses mainly between 12.35m and 18m. | 20 |
+| J 21.50 | | | | 21 |
+| U 22.05 | | | | 22 |
+| J 23.00 | | | | 23 |
+| S J 23.85 | 48 | | Claystone at 24.05m. | 24 |
+| J 24.30 | | | | |
+| U 24.55 | | | | |
+| | | 25.00 | End of Borehole | 25 |
+
+**
