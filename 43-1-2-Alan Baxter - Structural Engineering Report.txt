@@ -1,0 +1,86 @@
+Alan Baxter - Structural Engineering Report
+[Original Document](https://raw.githubusercontent.com/triptych73/planning/main/43-1-2-Alan%20Baxter%20-%20Structural%20Engineering%20Report.pdf)
+
+---
+
+# St Mary Somerset Tower Structural Engineering Report
+
+---
+
+## Introduction
+
+This is a structural engineering report prepared for Kate Renwick. The tower of St Mary Somerset Church is a Grade I Listed Building on Upper Thames Street in the City of London. The Church itself was demolished in about 1870. The tower has been used for various purposes but has been unused in recent years. It is now proposed to adapt the interior to become a dwelling. The report is based on a visual inspection of the building from outside and inside, on readily available historical information, and the author’s experience of similar buildings. No special access was arranged and no opening up was undertaken.
+
+## Site History and Geology
+
+The site lies within the City of London and has been in constant occupation for at least 2000 years. There has been a church on the site since the 12th century. The church was destroyed in the Great Fire of 1666, and the existing tower was built as part of a replacement designed in Christopher Wren’s Office. The Parish was one of the poorest in the City, and it was not until 1685 that the project to rebuild the church was initiated. The building was completed in about 1694, after a break in construction at the time of the Glorious Revolution in 1688. The parish was so poor that the cost of fitting out the building (normally a parish responsibility) was met by the Commissioners.
+
+In the middle of the 19th century, the resident population of the City had dropped and there were far more churches than were needed, and some 19 of Wren’s were demolished, including St Mary’s. The tower was kept because of the unusual obelisks on the parapets, thought to be designed by Nicholas Hawksmore.
+
+During the Second World War, the tower was not badly damaged, though the buildings around it were mostly destroyed by incendiary bombs. After the war, the obelisks were removed and re-instated by the City Corporation, and other sundry repairs were undertaken.
+
+The road layout around the church has changed greatly since 1694, when the church was at the intersection of Old Fish Street Hill and Upper Thames Street. Old Fish Street Hill was one of a number of streets linking Upper and Lower Thames Streets to Ludgate Hill, St Paul’s Churchyard, and Canon Street. Queen Victoria Street was a completely new road opened in 1871 to complete the new route from Westminster to the Mansion House via the Embankment. It intersected at right angles all the old streets which ran down the slope to the river. This natural slope would have generated far too great a crossfall on the new street, so the ground was leveled over the width of the new carriageways.
+
+The effect of introducing level sections into the lanes was to force an increase in the gradient elsewhere to achieve the same overall change in level in a shorter distance. In some cases, no attempt was made to reconcile the levels, and the link to the river was broken. In other cases, it was necessary to realign the streets to lengthen the distance and keep the maximum gradient to something that could be negotiated by horses pulling heavily loaded carts.
+
+## Existing Structure
+
+This is a solid masonry tower. At ground level in what would have been the vestibule of the church, there is Portland stone masonry on the inside and the outside. The walls at this level are likely to have cores of rubble laid in lime mortar, or brick. In the upper parts, there is Portland stone on the outside and brick with stone dressings on the inside. There may be rubble in the core of the walls at higher levels, but it is more likely that the brickwork is solid and bonded to the external facing of Portland Stone. Internally, the stone in the upper parts and the vice is generally not Portland, and a lot of it is Reigate. The bricks are relatively soft red brick. The dome over the vestibule is Portland stone which is original, and there are four beams at high level which are either steel beams encased in concrete, or (more likely) reinforced concrete beams spanning between the walls. The latter were probably inserted as part of the Corporation’s repairs in the 1950s. Other horizontal structures and the roof itself are timber.
+
+Although the tower was designed to contain a peal of bells, there is no evidence that bells were ever installed, and the poverty of the Parish makes it unlikely that there ever were any. There is a small hole in the dome over the vestibule which suggests that there was a single bell which could be tolled by someone standing in the vestibule. It is therefore unlikely that the tower has ever experienced the vibrations which change-ringing induces.
+
+There are some cracks and open joints in the brick masonry at upper levels, and there is evidence of several different arrangements for monitoring these. No record has yet been found to explain why or when this monitoring was undertaken, nor what were the conclusions drawn from it. However, the cracks are not wide and look old. The most likely explanation is that the monitoring was done when major reconstruction was going on in the area, and that their purpose was to prove that the tower had not been damaged. The cracks are not significant enough to justify monitoring under normal circumstances.
+
+## Structural Condition of the Tower
+
+From a purely structural point of view, the tower appears to be in reasonable condition, and no major defects could be seen such as would threaten the overall stability of the structure or warrant immediate intervention to mitigate the defects.
+
+## Stone Obelisks
+
+The stone obelisks—which since they support nothing other than their own weight are, strictly speaking, not "structural"—contain some curious features, beyond their unusual geometry. They are made up of quite a large number of small stones where one would expect there to be a few large stones. They also appear to contain iron cramps which can be seen to be corroding. These are likely to require repair before other parts of the outside of the building need repair. In order to make an appraisal of the risks involved here, it is necessary to establish what the bonding pattern of the stonework is, and where the cramps are. It is possible, and consistent with the approach to conservation in the 1950s, that the obelisks were reconstructed around some sort of new structural core. The ideal way, and the cheapest, to determine this would be to find reliable records of the work done in the 1950s. Otherwise, it will be necessary to construct safe access to the obelisks so that they can be examined non-destructively using impulse radar and associated techniques.
+
+## Brickwork and Reigate Stone
+
+The brickwork and the Reigate stone is decaying but the structure is not highly stressed and a great deal more decay could occur before the structural stability would be compromised. One would assume, however, that practical considerations of avoiding the occupants of the residence getting covered with dust will mean that these surfaces are faced in some way which will reduce the rate of erosion.
+
+## Historical Context and Material Choice
+
+This all begs the question as to why, given his commitment to quality and good workmanship, Wren allowed soft red bricks and Reigate stone to be used, since the shortcomings of both were known at the time. The answer may be to do with making economies, but another explanation comes from the date of construction. Following the Glorious Revolution of 1688, there was great political uncertainty followed by two years of war with France. This caused major disruption to the supply of Portland stone to the City. The stone all had to be brought by sea through the Channel and up the Thames. Shipping in the Channel was liable to attack by the French, British merchant seamen were called to the colors and the masters of ships which were still available and with crews were able to charge inflated prices and "danger money". Wren was faced with the need to keep his teams of masons employed, and it was necessary to maintain progress on projects. At St Paul’s Cathedral, he resorted to using Reigate (which could be transported to London overland and by river) in some parts which are not visible, and it is surely likely that he did so elsewhere. The availability of better stone would have fluctuated during the crisis, and this could account for the relatively random distribution of the Reigate amongst better stones.
+
+## Foundation of the Tower
+
+The manner in which the tower is founded is not known directly, but there is a reference in the building accounts (which evidently survive) to the tower having been founded at a depth of eighteen feet in "wet ground". The tower appears to the naked eye to be reasonably vertical, and any settlements due to the weight of the tower have had plenty of time to occur.
+
+## Implications for Refurbishment
+
+The tower is a Grade I listed building with some obviously interesting features such as graffiti, so as with all buildings of this type there will be conservation-based constraints on how the structure can be altered. From a structural point of view, the existing floors do not contribute to the overall stability of the structure and their positioning is not critical. The increase in load due to an increase in the number of floors within the tower is not likely to be significant in relation to the dead weight of structure contained in the walls.
+
+As with all riverside structures, there is always the possibility of timbers buried in the ground, either as part of some previous structure, or of the present structure, or as random pieces of flotsam from the time when this was the foreshore. Such timbers, provided they remain saturated and starved of oxygen, can remain in good condition indefinitely, but if for some reason the water table drops, decay can set in leading to the formation of voids in the ground which can induce settlement of the building. There are no visible signs of this at St Mary Somerset, but the possibility exists. One way of assessing the risk would be to make a borehole down through the masonry - possibly in a doorway - and confirm the depth to the foundation, the material on which it is founded, and the level of the water table, which could be monitored to see how it varies.
+
+We believe it is generally accepted that in order to create a practicable means of access to the upper parts of the tower whilst preserving the architectural integrity of the vestibule, the envelope needs to be extended to make room for a staircase. The only place for this extension is on the north side, as far as the pavement on Lambeth Hill. The main engineering issue of the whole project is likely to be how this extension is structured and, in particular, how it is founded. The foundations will need to be compatible with those of the tower, and with whatever substructure lies beneath the retaining wall on Lambeth Hill. The latter needs to be established right at the start of the design process, together with any legal constraints on altering it or increasing the load on it, since it is presumably owned by the Corporation and not by the leaseholder of the tower.
+
+A search of the archives undertaken by the Corporation has produced various drawings of the construction of the re-aligned Lambeth Hill in the 1960s. The work was complex and was undertaken in phases. It involved temporary arrangements, which were then at least in part, incorporated into the permanent works. Unfortunately, no records have been found for the construction immediately to the north of the tower, and where records do exist they show that the details vary quite a lot from one place to another. The implication of this is that before the new extension can be designed, the existing construction will have to be completely investigated, and the only way to do this is by excavating down to the base of whatever construction lies beneath the retaining wall, and checking the foundations of the tower itself.
+
+This investigation would take the form of a trench, as narrow as practicable, down to virgin ground and following the line of the proposed walls. This trench would then be available as a place from which to repair or upgrade the existing construction, or to form new foundations, which might be strips, pads, or piles.
+
+## The Most Likely Situation
+
+The most likely situation is that the 19th-century building erected just north of the tower after the church was demolished had a basement, and that the external wall of this basement remained in position when the building was demolished, with the basement itself being backfilled with mass concrete. The key issue for the new construction is whether whatever remains in the ground is of a quality and in a position which makes it feasible to build off it, or whether it must be removed and a completely new sub-structure is needed.
+
+## Project Programme
+
+The project programme must allow time for this investigation and appraisal, which is needed because the records of the existing structure are not available, and is part of the design process. This time will be in addition to whatever is allowed for during the construction stage of the project once all the design decisions have been made.
+
+## Possibility of New Foundations
+
+The possibility that some new foundations will be needed or that existing substructures will need to be exposed to determine their capacity raises the question of archaeology. From a structural point of view, we think it is likely that the whole footprint of the tower was excavated to form its foundations. The material under the vestibule floor is therefore likely to be imported fill, or the original material disturbed and replaced. Where there are rubble cores, these are likely to contain broken stones recovered from the pre-fire church. The construction of the present Lambeth Hill is likely to have caused quite a lot of disturbance over whatever depth the builders had to go to build it.
+
+---
+
+**Robert Bowles**  
+**Alan Baxter and Associates**  
+**February 2005**
+
+## References
+
+- Alan Baxter and Associates’ collection of historical maps; geological map; “Metropolitan Improvements 1855 - 1889” (for the implications of Queen Victoria Street); “Rebuilding St Paul’s after the Great Fire” - Jane Lane (for the interruption of stone supplies); “The City Churches of Christopher Wren” - Paul Jeffry (for the foundation depths and the dates of construction.)
