@@ -1,3 +1,31 @@
+```yaml
+# Metadata for 40-1-Application-Image-for-OCR-png-2025-03-10T16-35-49-435Z.txt
+keywords:
+  - Town and Country Planning Act 1990
+  - planning permission
+  - City of London
+  - development
+  - residential accommodation
+  - listed buildings
+  - external alterations
+  - London Plan
+topics:
+  - Urban Planning
+  - Legal Framework
+  - Architecture and Development
+  - Housing Policy
+  - Heritage Conservation
+description: >
+  This text file contains a planning permission document issued by the Common Council 
+  of the City of London under the Town and Country Planning Act 1990. It grants 
+  conditional approval for the development and external alterations of the Tower of 
+  St Mary Somerset Church on Upper Thames Street, London, for use as a single dwelling 
+  house with ancillary office accommodation. The decision is based on various policies 
+  from the City of London Unitary Development Plan 2002 and the London Plan, focusing 
+  on aspects like residential provision, open spaces, waste management, and alterations 
+  to listed buildings.
+```
+
 # Town and Country Planning Act 1990
 
 ## PLANNING PERMISSION FOR DEVELOPMENT (CONDITIONAL)
