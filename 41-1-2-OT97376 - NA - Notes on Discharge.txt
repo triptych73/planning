@@ -1,3 +1,29 @@
+```yaml
+# ---
+# title: "Notes on Discharge"
+# file_name: "41-1-2-OT97376 - NA - Notes on Discharge.txt"
+# description: "Notes on the discharge of planning conditions for the historical St Mary Somerset Church Tower in London."
+# keywords:
+#   - Planning Permission
+#   - Listed Building
+#   - St Mary Somerset
+#   - Building Conservation
+#   - Restoration
+#   - Historical Architecture
+#   - Lighting Design
+#   - External Joinery
+# topics:
+#   - Urban Planning
+#   - Historic Preservation
+#   - Architecture
+#   - Building Restoration
+#   - Conservation Methodologies
+#   - Material Specifications
+#   - Compliance with Planning Regulations
+# brief_description: "This document outlines the details related to the discharge of planning conditions for the restoration and alteration of the grade I listed St Mary Somerset Church Tower in London, including materials used, lighting schemes, window modifications, and cleaning methodologies."
+# ---
+```
+
 OT97376 - NA - Notes on Discharge
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/41-1-2-OT97376%20-%20NA%20-%20Notes%20on%20Discharge.pdf)
 
