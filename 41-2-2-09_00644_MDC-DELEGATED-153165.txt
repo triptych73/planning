@@ -1,3 +1,28 @@
+```yaml
+---
+keywords:
+  - Stonework
+  - Listed Building
+  - Planning Permission
+  - Extension
+  - Wren's Church Tower
+  - Heritage Conservation
+  - Construction Materials
+  - Architectural Details
+  - Building Regulations
+  - Preservation
+topics:
+  - Architectural preservation
+  - Planning and development
+  - Construction and materials
+  - Heritage and conservation
+  - Building consent and regulations
+  - Historical buildings
+description: >
+  This document outlines a planning and development application regarding the Tower of St Mary Somerset Church, a Grade I listed building in London built between 1686-94. The application seeks approval for details related to the stonework, windows, and structural junctions of a proposed extension. It addresses conditions from previous planning permissions, involving minor design revisions to the extension while maintaining the historical integrity of the church tower.
+---
+```
+
 09_00644_MDC-DELEGATED-153165
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/41-2-2-09_00644_MDC-DELEGATED-153165.pdf)
 
