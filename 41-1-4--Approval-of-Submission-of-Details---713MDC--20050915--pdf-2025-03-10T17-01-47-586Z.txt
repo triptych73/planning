@@ -1,3 +1,21 @@
+```yaml
+# Metadata for "41-1-4--Approval-of-Submission-of-Details---713MDC--20050915--pdf-2025-03-10T17-01-47-586Z.txt"
+keywords:
+  - City of London
+  - Planning Approval
+  - Archaeology
+  - Museum of London Archaeology Service
+  - St Mary Somerset Church
+  - Urban Planning
+  - Architectural Evaluation
+topics:
+  - Town and Country Planning Act 1990
+  - Archaeological Evaluation Methods
+  - Urban Development and Heritage Sites
+description: >
+  This document is a planning approval notice from the City of London, addressed to the Museum of London Archaeology Service regarding the submission of details for an archaeological evaluation at the Tower of St Mary Somerset Church. The application was approved as per the conditions of a planning permission dated 12 May 2005, with reference to method statements outlining site investigation procedures.
+```
+
 # The City Planning Officer
 
 **Peter Wynne Rees**  
