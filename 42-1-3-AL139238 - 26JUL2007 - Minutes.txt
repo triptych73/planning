@@ -1,3 +1,37 @@
+```yaml
+# Metadata for 42-1-3-AL139238 - 26JUL2007 - Minutes.txt
+
+keywords: 
+  - Town Planning
+  - Development Planning
+  - Property Strategy
+  - Master Planning
+  - Urban Design
+  - Consultation
+  - St Mary Somerset Tower
+  - Conditions Discharge
+  - Archaeological Conditions
+  - External Lighting
+  - Roof Plant
+  - Graffiti
+
+topics:
+  - Planning and Development Strategies
+  - Implementation of Planning Conditions
+  - Coordination with City Corporation
+  - Conservation and Repair Methodologies
+  - Architectural Design Considerations
+  - Heritage Management
+
+description: >
+  This document contains the minutes of a meeting held on July 19, 2007, regarding the development
+  planning for The Tower at St Mary Somerset in London. Key attendees included members of the
+  planning team and architectural consultancies. The discussion focused on the discharge of planning
+  conditions, particularly concerning archaeological considerations, external lighting, and repair 
+  methodologies. The document details action items and strategic decisions intended to facilitate 
+  the commencement and progression of the construction work.
+```
+
 AL139238 - 26JUL2007 - Minutes
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/42-1-3-AL139238%20-%2026JUL2007%20-%20Minutes.pdf)
 
