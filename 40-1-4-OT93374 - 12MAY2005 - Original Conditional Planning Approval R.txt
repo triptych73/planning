@@ -1,3 +1,31 @@
+```yaml
+# ---
+# title: "Original Conditional Planning Approval"
+# file_name: "40-1-4-OT93374 - 12MAY2005 - Original Conditional Planning Approval R.txt"
+# date_issued: "12 May 2005"
+# case_officer: "Claire Brady"
+# city_planning_officer: "Peter Wynne Rees"
+# reference_number: "05/00194/FULL"
+# location: "Tower of St Mary Somerset Church, 211 Upper Thames Street, London EC4"
+# description: |-
+#   This document contains the original conditional planning approval for the development of the Tower of St Mary Somerset Church in London. The proposal includes external alterations and extensions to the existing tower to convert it into a single dwelling house with ancillary office accommodation. The approval is subject to specific conditions and recommendations related to architectural alterations, roofing, refuse management, and historical preservation.
+# topics:
+#   - Town and Country Planning Act 1990
+#   - City Development Plans
+#   - Urban Planning and Architecture
+#   - Historical Preservation
+#   - Housing and Residential Accommodation
+# keywords:
+#   - conditional planning approval
+#   - development plan
+#   - listed building alterations
+#   - City of London
+#   - external alterations
+#   - single dwelling conversion
+#   - architectural conditions
+# --- 
+```
+
 OT93374 - 12MAY2005 - Original Conditional Planning Approval
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/40-1-4-OT93374%20-%2012MAY2005%20-%20Original%20Conditional%20Planning%20Approval%20R.pdf)
 
