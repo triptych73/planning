@@ -1,3 +1,30 @@
+```yaml
+---
+filename: "44-1-b-1-101 WG Stat Intent on External Lighting - Cond 2b TOPIC PAPER 2.txt"
+title: "101 WG Stat Intent on External Lighting - Cond 2b Topic Paper 2"
+description: >
+  This document outlines the planning and design considerations for the external lighting of the Grade I listed Tower of St Mary Somerset in London. It addresses the discharge of part of Condition 2(b) related to planning permissions and provides details of the types of lighting fixtures proposed for the project.
+keywords:
+  - External Lighting
+  - Zero Maintenance Micro LED Floodlights
+  - ERCO Beamer Light
+  - BEGA Wall Luminaires
+  - Tower of St Mary Somerset
+  - Planning Consent
+  - Urban Design
+  - Property Strategy
+topics:
+  - Town Planning and Development
+  - Urban Design and Master Planning
+  - Heritage Building Conservation
+  - Lighting Design and Specifications
+  - Regulatory Approvals in Construction
+related_documents:
+  - "05/00194/FULL"
+  - "05/00195/LBC"
+  - "06/00283/LDC"
+```
+
 101 WG Stat Intent on External Lighting - Cond 2b TOPIC PAPER 2
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/44-1-b-1-101%20WG%20Stat%20Intent%20on%20External%20Lighting%20-%20Cond%202b%20TOPIC%20PAPER%202.pdf)
 
