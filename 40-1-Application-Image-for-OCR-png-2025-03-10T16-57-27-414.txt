@@ -1,3 +1,12 @@
+```yaml
+# ---
+# keywords: Town and Country Planning Act 1990, planning permission, development, City of London, Tower of St Mary Somerset Church, external alterations, single dwelling house, ancillary office accommodation, Unitary Development Plan, London Plan, listed buildings
+# topics: urban development, architecture, heritage conservation, residential accommodation, urban planning policy
+# description: This document is a conditional planning permission issued by the Common Council of the City of London for development alterations to the Tower of St Mary Somerset Church, located at 211 Upper Thames Street, London EC4. The permission includes external alterations, extension to the existing tower, and its use as a single dwelling house with ancillary office accommodation. The approval considers local development policies and aims to balance development needs with heritage and environmental considerations.
+# date: 2025-03-10T16:57:27
+# ---
+```
+
 ---
 
 # Town and Country Planning Act 1990
