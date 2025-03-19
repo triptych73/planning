@@ -1,3 +1,40 @@
+```yaml
+# Metadata for 41-2-1-09_00644_MDC- COVERING LETTER -151046.txt
+---
+title: "Covering Letter for St Mary Somerset Tower Approvals"
+author: Brian Hendry
+date: "22nd July 2009"
+address: "The Meeting Room, 6 Crossways, The Street, Effingham, Surrey KT24 5LW"
+recipients:
+  - Clive Cornwell, Dept of Planning & Transportation, City of London
+cc:
+  - Maureen Joyce, City of London
+  - Kate Renwick
+  - David Aslam
+  - Simon Ralph, Structural Engineer
+topics:
+  - Building Construction
+  - Architectural Approvals
+  - Planning Permission
+keywords:
+  - St Mary Somerset Tower
+  - Planning and Transportation
+  - Architectural Design
+  - Building Approvals
+  - Listed Building
+  - Portland Whitbed Stone
+  - Structural Drawings
+  - Extension Design
+  - Revised Plans
+description: >
+  This document is a covering letter from architect Brian Hendry regarding
+  revised drawings and proposed changes for the St Mary Somerset Tower project
+  in London. It details the changes to previously approved plans, including
+  modifications to window designs and wall construction. The letter requests
+  confirmation of approval from the City of London's Department of Planning
+  and Transportation to proceed with construction.
+```
+
 09_00644_MDC- COVERING LETTER -151046
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/41-2-1-09_00644_MDC-%20COVERING%20LETTER%20-151046.pdf)
 
