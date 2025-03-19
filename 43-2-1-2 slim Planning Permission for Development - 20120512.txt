@@ -1,3 +1,51 @@
+```yaml
+---
+title: "Planning Permission for Development"
+file_name: "43-2-1-2 slim Planning Permission for Development - 20120512.txt"
+date: "12 May 2005"
+decision_date: "12 May 2005"
+reference_number: "05/00194/FULL"
+application_number: "05/00194/FULL"
+location: "Tower of St Mary Somerset Church, 211 Upper Thames Street, London EC4"
+proposal_description: "External alterations and extension to existing tower for use as a single dwelling house with ancillary office accommodation (Class C3)."
+city_planning_officer: "Peter Wynne Rees"
+case_officer: "Claire Brady"
+contact_information:
+  department: "Department of Planning & Transportation"
+  corporation: "Corporation of London"
+  phone_general: "020 7332 1710"
+  phone_direct: "020 7332 1709"
+  email: "claire.brady@corpoflondon.gov.uk"
+developer: "Washbourne Greenwood Development Planning"
+developer_contact: "Richard Greenwood"
+developer_address: "Old School Studios, Erasmus St, Westminster, SW1P 4HR"
+related_plans: 
+  - "City of London Unitary Development Plan 2002"
+  - "London Plan"
+conditions_summary: 
+  - "Development to commence within five years"
+  - "Submission of materials and design details for approval"
+  - "Provision and maintenance of refuse facilities"
+  - "Restrictions on door and gate positioning for public safety"
+keywords:
+  - "Planning Permission"
+  - "Development"
+  - "City of London"
+  - "Residential Accommodation"
+  - "Unitary Development Plan"
+  - "Listed Building"
+  - "Alteration and Extension"
+  - "Public Safety"
+topics:
+  - "Urban Development"
+  - "City Planning"
+  - "Building Regulations"
+  - "Heritage Conservation"
+  - "Residential Housing"
+description: "The document details the planning permission granted by the City of London for external alterations and extension of the Tower of St Mary Somerset Church to create a single dwelling house with office space. It outlines the conditions set forth, reasons for approval, alignment with relevant development plans, and contact information for involved parties."
+---
+```
+
 2 slim Planning Permission for Development - 20120512
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/43-2-1-2%20slim%20Planning%20Permission%20for%20Development%20-%2020120512.pdf)
 
