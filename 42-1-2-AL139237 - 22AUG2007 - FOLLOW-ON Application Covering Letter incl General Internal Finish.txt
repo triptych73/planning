@@ -1,3 +1,33 @@
+```yaml
+---
+title: "42-1-2-AL139237 - 22AUG2007 - FOLLOW-ON Application Covering Letter incl General Internal Finish"
+date: 2007-08-22
+keywords: 
+  - Tower of St Mary Somerset
+  - City of London Planning Department
+  - Washbourne Greenwood Development Planning
+  - discharge of conditions
+  - internal finishes
+  - external lighting
+  - property strategy
+  - master planning
+  - urban design
+  - oak flooring
+  - conservation practice
+  - planning application
+  - general principles
+  - high quality materials
+topics: 
+  - Town Planning
+  - Building Development
+  - Architecture
+  - Conservation
+  - Property Strategy
+description: |
+  This document is a follow-on application covering letter related to the Tower of St Mary Somerset in London, addressed to the City of London Planning Department. It details the discharge of various conditions associated with the planning project, including updates on the selection of materials and general internal finishes. The communication lists specific drawings and modifications in the proposal regarding internal and external aspects of the building, emphasizing quality materials and adherence to conservation practices.
+--- 
+```
+
 AL139237 - 22AUG2007 - FOLLOW-ON Application Covering Letter incl General Internal Finish
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/42-1-2-AL139237%20-%2022AUG2007%20-%20FOLLOW-ON%20Application%20Covering%20Letter%20incl%20General%20Internal%20Finish.pdf)
 
