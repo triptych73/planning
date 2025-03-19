@@ -1,3 +1,25 @@
+```yaml
+---
+title: "44-1-g-2-2g drawings"
+description: "A text representation of architectural or engineering drawings submitted to discharge Condition 2 (9). Includes sections detailing project specifics, drawing information, and notes."
+keywords:
+  - 2g drawings
+  - architectural drawings
+  - engineering drawings
+  - discharge condition
+  - project documentation
+  - client information
+  - drawing details
+  - planning register
+topics:
+  - Project Planning
+  - Architecture
+  - Engineering
+  - Documentation
+  - Compliance and Approval Processes
+---
+```
+
 2g drawings
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/44-1-g-2-2g%20drawings.pdf)
 
