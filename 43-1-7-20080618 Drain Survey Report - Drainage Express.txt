@@ -1,0 +1,113 @@
+20080618 Drain Survey Report - Drainage Express
+[Original Document](https://raw.githubusercontent.com/triptych73/planning/main/43-1-7-20080618%20Drain%20Survey%20Report%20-%20Drainage%20Express.pdf)
+
+---
+
+# DRAINAGE EXPRESS LTD
+
+## DRAIN SURVEY REPORT
+
+**St Mary's Tower, EC4**
+
+By Drainage Express – 18th June 2008
+
+---
+
+**Contact Information:**
+
+**Drainage Express**  
+Bowfields Hse  
+London SE25 5NY  
+Tel: 0800 787 9038  
+Fax: 0845 388 3815  
+
+---
+
+## Details
+
+- **No:** 1  
+- **PLR:**  
+- **Date:** 18th June 2008  
+- **Operator:** A Bowden  
+- **Job nr:**  
+- **Tape No:** n/a  
+- **Cleaned:** Yes  
+- **Catchment:** n/a  
+- **Vehicle:**  
+- **Map No 1:**  
+- **Map No 2:**  
+- **Road:** St Mary's Tower  
+- **Start MHA:** 00.00  
+- **Material:**  
+- **Town:** London  
+- **End MHA:** 00.00  
+- **Size/Shape:**  
+- **Location:** EC4  
+- **Section Length:** n/a  
+- **Joint Length:**  
+- **Reason for inspection:** CCTV  
+- **Section use:** Domestic/Commercial  
+- **Year laid:** n/a  
+- **Remark:** Jetted  
+
+---
+
+## Address
+
+St Mary Tower,  
+Lambeth Hill  
+EC4  
+
+---
+
+## Diagram
+
+- **Inside Tower**  
+  - **MHA i/c**  
+  - **Drop to Sewer**  
+
+- **Soak Pit**  
+  - **4"**  
+  - **Rain Water Gully**  
+
+**Note:**  
+Needs enquiry on this drop pipe
+
+---
+
+## Report Table
+
+| No: 1 | PLR: | Date: 18<sup>th</sup> June 2008 | Operator: A. Bowden | Job Nr: | Tape No: n/a |
+|-------|-----|---------------------------------|----------------------|--------|-------------|
+| Cleaned: | Catchment: n/a | Vehicle: | Map No 1: | Map No 2: |
+| Yes | n/a | | | |
+| Road: St Mary's Tower | Start MHA: 00.00 | Material: |
+| Town: Lambeth Hill | End MHA: 00.00 | Size/Shape: |
+| Location: EC4 | Section length: | Joint length: |
+| Reason for inspection: CCTV | Section use: | Year laid: N/K |
+| Remark: Jetted before inspection | | |
+
+---
+
+## Comment
+
+**Location Details:** 16 Musgrove Road, SE14 5PW
+
+**MHA Downstream – over I/c**
+
+- In line drops downwards to main sewer – at approx 6.8m deep
+- This line can be used for installing new chamber at approx 6ft deep
+- Used CCTV to locate rainwater run – traced to chamber pit in garden area
+
+---
+
+## Inspection Report
+
+**Address:** St Mary's Tower  
+Lambeth Hill  
+EC4  
+
+1. Need additional information on existing manhole for drop pipe for connection of main soil lines
+2. Local Authority needs to let SMTS know if we can connect to drop line before we can submit quote
+
+**End of Report**
