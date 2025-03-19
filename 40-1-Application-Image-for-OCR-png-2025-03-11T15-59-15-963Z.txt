@@ -1,3 +1,29 @@
+```yaml
+---
+filename: "40-1-Application-Image-for-OCR-png-2025-03-11T15-59-15-963Z.txt"
+description: >
+  Planning permission document for a development proposal at St Mary Somerset Church in London, including details of external alterations and extension for residential use with an ancillary office accommodation. The approval considers various policies from the London Plan and City of London Unitary Development Plan 2002.
+keywords:
+  - Town and Country Planning Act 1990
+  - Planning Permission
+  - City of London
+  - Development Proposal
+  - St Mary Somerset Church
+  - Residential Accommodation
+  - External Alterations
+  - Unitary Development Plan
+  - London Plan
+  - Listed Buildings
+topics:
+  - Urban Development
+  - Public Policy
+  - Heritage Conservation
+  - Environmental Planning
+  - Housing
+  - Urban Planning Regulations
+---
+```
+
 **Town and Country Planning Act 1990**
 
 **PLANNING PERMISSION FOR DEVELOPMENT (CONDITIONAL)**
