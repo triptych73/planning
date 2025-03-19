@@ -1,3 +1,47 @@
+```yaml
+---
+filename: "42-1-1-07_00749_MDC-DISCHARGE_OF_CONDITIONS-139237.txt"
+
+keywords:
+  - planning application
+  - discharge of conditions
+  - City of London
+  - Tower of St Mary Somerset
+  - development planning
+  - internal finishes
+  - material samples
+  - urban design
+
+topics:
+  - Town Planning
+  - Development Strategy
+  - Historical Building Conservation
+  - Architectural Design
+  - Construction and Renovation
+  - Local Government Requirements
+
+description: >
+  Correspondence regarding the discharge of conditions for the Tower of St Mary Somerset development in London, detailing discussions with the City of London Planning Department. The document covers the submission of material samples and design plans, internal finishes, and the strategy for adhering to building conservation and planning requirements. The letter includes descriptions of proposed alterations and installations, supported by attached drawings and topic papers, aiming to finalize approvals for the site development.
+
+date: 2007-08-14
+
+entities:
+  - Washbourne Greenwood Development Planning
+  - City of London Planning Department
+  - Maureen Joyce
+  - Clive Cornwell
+  - Richard Greenwood
+
+attachments:
+  - Drawings
+  - Topic Papers
+
+contact_information:
+  - Washbourne Greenwood Development Planning, 2b Morocco Street, London SE1 3HB, T: 0207 403 7541, f: 0207 403 7547, www.wgdp.co.uk
+  - City of London Planning Department, St Alphage House, 2 Fore Street, London EC2 5YD
+---
+```
+
 07_00749_MDC-DISCHARGE_OF_CONDITIONS-139237
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/42-1-1-07_00749_MDC-DISCHARGE_OF_CONDITIONS-139237.pdf)
 
