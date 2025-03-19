@@ -1,3 +1,30 @@
+```yaml
+---
+file_name: "40-1-3-DEC97377 - 23AUG2007 - Approval of Submission of DetailsGR.txt"
+title: "Approval of Submission of Details"
+date: "23 August 2007"
+author: "City of London Department of Planning & Transportation"
+key_topics:
+  - Town and Country Planning Act 1990
+  - Approval of Planning Submission
+  - Building and Construction Regulations
+  - Listed Building Consent
+  - Appeal Rights
+location: "Tower of St Mary Somerset Church 211 Upper Thames Street London EC4"
+keywords:
+  - Planning Application
+  - City of London
+  - External Joinery
+  - Materials Approval
+  - Lighting and Cleaning
+  - Double Glazing
+  - Roof Structure
+  - Internal Finishes
+description: >
+  This document pertains to the approval of submission details under the Town and Country Planning Act 1990 for alterations to the Tower of St Mary Somerset Church in London. It includes approved plans for materials, facade alterations, and additional permissions. The document also outlines rights for appeal following a decision under planning law.
+---
+```
+
 DEC97377 - 23AUG2007 - Approval of Submission of Details
 [Original Document](https://raw.githubusercontent.com/triptych73/planning/main/40-1-3-DEC97377%20-%2023AUG2007%20-%20Approval%20of%20Submission%20of%20Details.pdf)
 
