@@ -1,0 +1,302 @@
+20080711 Pre-Construction Survey of Sewer - CoL
+[Original Document](https://raw.githubusercontent.com/triptych73/planning/main/43-1-8-20080711%20Pre-Construction%20Survey%20of%20Sewer%20-%20CoL.pdf)
+
+---
+
+**Report by:**
+
+Philip Everett, Director  
+Department of Environmental Services  
+City of London Corporation  
+PO Box 270, Guildhall, London, EC2P 2EJ  
+
+Telephone No: 0207 332 1105  
+Facsimile No: 0207 332 1578  
+
+---
+
+**Ref: 153/07/08**  
+**Client: STMS**  
+**F.A.O. David Aslam**  
+2 Salem Road  
+Bayswater, London  
+W2 4BU  
+
+---
+
+# PRE-CONSTRUCTION SURVEY OF THE SEWER AT LAMBETH HILL PRIOR TO WORKS BEING UNDERTAKEN ON ST MARY SOMERSET TOWER
+
+---
+
+**CITY OF LONDON**
+
+## DOCUMENT CONTROL
+
+The Infrastructure Section, Contract & Drainage Management Group (CDMG) has prepared this report on behalf of STMS (*"the client"*).
+
+This report is for the sole use of the client and his agent. CDMG shall not be responsible for any use of the report or its contents for any purpose other than that for which it was prepared and provided.
+
+Should the client need to provide copies of the report to other parties for information, the whole report should be so copied but no liability nor warranty shall be extended to other parties without explicit written agreement.
+
+**Report prepared by:**
+
+- **Name:** Paul Jones
+- **Designation:** Drainage Engineer
+
+**Signed:**
+
+**Date:** 11th July 2008
+
+**Report authorised by:**
+
+- **Name:** Martin Coulthard
+- **Designation:** Contract Manager
+
+**Signed:**
+
+**Date:** 11th July 2008
+
+**Status of report:** Controlled  
+**Issue number:** No. 1
+
+**Date of issue:** 11th July 2008
+
+---
+
+## TABLE OF CONTENTS
+
+| **PAGE NO.** |  
+|--------------|  
+| DOCUMENT CONTROL | 1 |  
+| TABLE OF CONTENTS | 2 |  
+
+1. **INTRODUCTION**  
+   1.1 LOCATION  
+   1.2 PURPOSE OF SURVEY  
+   1.3 METHOD OF SURVEY  
+   1.4 GENERAL OBSERVATIONS  
+
+2. **INSPECTION REPORT**  
+
+| | 3 |  
+| | 3 |  
+| | 3 |  
+| | 3 |  
+| | 4 |
+
+**CONDITION CODES**  
+5 - 7
+
+**PHOTOGRAPHS**  
+8 - 14
+
+---
+
+# 1. INTRODUCTION
+
+## 1.1 Location
+
+Lambeth Hill by St Mary Somerset Tower.
+
+## 1.2 Purpose of Survey
+
+To verify the condition of the sewer prior to adjacent construction works.
+
+## 1.3 Method of Survey
+
+The survey was undertaken by a man-entry sewer survey gang who measured the location of current defects and noted their type and, if necessary, the severity and recorded them photographically. Connections within the sewer in the vicinity of the proposed construction works were also noted and recorded photographically.
+
+The works within confined space were carried out in accordance with the Policy, Procedures and ‘Safe Systems of Work in Sewers’ manual, produced by the London Boroughs Drainage Group, the Association of Thames Drainage Authorities and Water Training International.
+
+## 1.4 General Observations
+
+The sewer in the vicinity of the proposed construction works was in good condition, with no defects noted.
+
+Upstream of the area surveyed, bricks and rubble were noticed in the invert of the sewer. This deposit does not seem to have had an affect on the function of the sewer, however, Thames Water Utilities Ltd have been informed of what was found.
+
+---
+
+# 2. SURVEY INSPECTION REPORT
+
+**Surveyed by (Operator):** M. Edgar  
+**Date:** 19/06/2008  
+**Time:** 11.00  
+
+**Start Manhole No.:**  
+**Finish Manhole No.:** Head Wall  
+
+**Location - Road Name:**  
+St Mary Somerset Tower  
+
+**Size (Dia):**  
+**X Size:**  
+
+**Shape:** Oval  
+**Material:** Brick  
+**Lining:**  
+
+**Comments - General:**  
+Up Stream  
+
+**Further Locations Details:**  
+Castle Baynard Street/Lambeth Hill  
+
+| Photo No. | Distance (Meters) | Contains Defect | Letters Code | Diameter/INCM | Numbers | Check to % | Infiltration to % mm | Remarks |
+|-----------|-------------------|-----------------|--------------|---------------|---------|-----------|----------------------|---------|
+|           | 0.0               | MH              |              |               |         |           |                      |         |
+|           | 0.0               | WL              |              |               | 5       |           |                      |         |
+| 1         | 0.5               | CN              | 225          | 4             |         |           |                      |         |
+| 2         | 2.0               | CN              | 225          | 4             |         |           |                      |         |
+| 3         | 12.0              | CN              | 150          | 4             |         |           |                      |         |
+| 4         | 17.0              | FC              | 1            | 12            |         |           |                      | Top of steps |
+| 5         | 18.2              | INGz            |              |               |         |           |                      | Start of ingress brick/sand |
+| 6         | 19.1              | H               | 10           | 70            |         |           |                      | Infiltration of sewer rubble |
+| 7         |                   |                 |              |               |         |           |                      | General view/rubble and head wall |
+|           | 21.3              | SF              |              |               |         |           |                      | Head wall |
+
+---
+
+# 3. SEWER CONDITION CODES
+
+**(ALPHABETICAL ORDER)**
+
+| Code     | Definition |
+|----------|------------|
+| **BJ()** | Broken pipe at ... (OR from ... to .....) o'clock |
+| **BR**   | Start node type, major connection without manhole, reference number... in Dimension 1 Column. |
+| **BRF**  | Finish node type, major connection without manhole, reference number... in Dimension 1 Column. |
+| **CC(J)**| Crack circumferential from ... to ... o'clock |
+| **CL(J)**| Crack longitudinal at ... o'clock |
+| **CM(J)**| Cracks multiple from ... to ... o'clock |
+| **CS**   | Cracks spiral from ... to ... o'clock |
+| **CN(*)**| Connection other than junction at ... o'clock, diameter ... mm |
+| **CNC**  | Connection other than junction, closed at ... o'clock, diameter ... mm |
+| **CP**   | Start node type, catchpit, reference number ... in Dimension 1 Column |
+| **CPF**  | Finish node type, catchpit, reference number ... in Dimension 1 Column |
+| **CU***  | Loss of vision |
+| **CU D** | Loss of vision, silt |
+| **CU S** | Loss of vision, steam |
+| **CU W** | Loss of vision, camera under water |
+| **CU Z** | Loss of vision, other |
+| **CX I** | Connection intruding at ... o'clock, diameter ... mm, intrusion ...% |
+| **CX**   | Connection defective at ... o'clock, diameter ... mm |
+| **CX B(I)**| Connection defective, connecting pipe is blocked at ... o'clock, diameter ... mm, (intrusion ... %) |
+| **CX D** | Connection defective, connecting pipe is damaged at ... o'clock, diameter ... mm, (intrusion ... %) |
+| **CX P(I)**| Connection defective, position incorrect at ... o'clock, diameter ... mm, (intrusion ... %) |
+| **CX Z** | Defective connection, other |
+| **DF**   | Deformed drain/sewer ...% (Pipe Only) |
+| **DH**   | Deformed horizontally ...% (Brick Only) |
+| **DV**   | Deformed vertically ...% (Brick Only) |
+| **DX**   | Displaced brick at... (OR from ... to ...) o'clock |
+| **DE CU/J**| Settled deposits hard or compacted ...% cross-sectional area loss |
+| **DE F(U)**| Attached deposits, encrustation at ... (OR from ... to ...) o'clock... % cross-sectional area loss |
+| **DE F(J)**| Attached deposits, fouling at ... (OR from ... to ...) o'clock... % cross-sectional area loss |
+| **DE G(U)**| Attached deposits, grease at ... (OR from ... to ...) o'clock... % cross-sectional area loss |
+| **DE G(J)**| Settled deposits coarse ...% cross-sectional area loss |
+| **DE S(U)**| Settled deposits fine ...% cross-sectional area loss |
+| **DE X(U)**| Other settled deposits ...% cross-sectional area loss + qualifying remark |
+| **DI**   | Dropped invert, gap ... mm |
+| **DE Z(U/J)**| Other attached deposits at ... (OR from ... to ...) o'clock ...% cross-sectional area loss + qualifying remark |
+| **I (J)**| Dropped invert, gap ... mm |
+| **EX()** | Exfiltration at ... (OR from ... to ...) o'clock |
+| **FC(J)**| Fracture circumferential from ... to ... o'clock |
+| **FL(J)**| Fracture longitudinal at ... o'clock |
+| **FM(J)**| Fractures multiple from ... to ... o'clock |
+| **FS**   | Fracture spiral from... to... o'clock |
+| **FW (I)**| Flow in incoming pipe, at ... o'clock ...% of the vertical dimension |
+| **FW C(I)**| Clear flow in incoming pipe, at ... o'clock ...% of the vertical dimension |
+| **FW T C(S I)**| Wrong clear flow in incoming full pipe, at ... o'clock ...% of the vertical dimension (e.g. water main burst) |
+| **FW T(I)**| Turbid flow in incoming pipe, at ... o'clock ...% of the vertical dimension |
+| **FW T F(I)**| Wrong turbid flow in incoming pipe, at ... o'clock ...% of the vertical dimension (Pollution in SWS) |
+| **G**    | General topography reference... taken at this point |
+| **GY***  | Start node type, gully, reference number... in Dimension 1 Column |
+| **GYF*** | Finish node type, gully, reference number... in Dimension 1 Column |
+| **GZ(*)**| Hazardous atmosphere, other [% or ppm] |
+| **H(J)** | Hole in drain/sewer at... (OR from ... to ...) o'clock |
+| **HS (s)**| Hazardous atmosphere, hydrogen sulphide [% or ppm] |
+| **I***   | Infiltration |
+| **IC**   | Start node type, inspection chamber, reference number ... in Dimension 1 Column |
+| **ICF**  | Finish node type, inspection chamber, reference number ... in Dimension 1 Column |
+| **ID (J)**| Infiltration dripping at ... (OR from ... to ...) o'clock |
+| **IG (J)**| Infiltration gushing at ... (OR from ... to ...) o'clock |
+| **IR (J)**| Infiltration running at ... (OR from ... to ...) o'clock |
+| **IS(U/J)**| Infiltration seeping at ... (OR from ... to ...) o'clock |
+| **ING F (U)**| Ingress of fine material at ... (OR from ... to ...) o'clock ...% cross-sectional area loss |
+| **ING G (J)**| Ingress of gravel at ... (OR from ... to ...) o'clock ...% cross-sectional area loss |
+| **ING P (J)**| Ingress of peat at ... (OR from ... to ...) o'clock ...% cross-sectional area loss |
+| **ING S (J)**| Ingress of sand at ... (OR from ... to ...) o'clock ...% cross-sectional area loss |
+| **ING Z (J)**| Ingress of silt, other at ... (OR from ... to ...) o'clock ...% cross-sectional area loss + qualifying remark |
+| **J**    | Joint displaced |
+| **J(U)** | Joint displaced ...% of diameter mm, (over 20% in mm) |
+| **JD (L)**| Joint displaced large |
+| **JD (M)**| Joint displaced medium |
+| **JD (S)**| Joint displaced small |
+| **JN C** | Junction, closed, at ... o'clock, diameter ... mm |
+| **JN X** | Junction defective, at ... o'clock, diameter ... mm |
+| **JX B** | Junction defective, connecting pipe is blocked at ... o'clock, diameter ... mm |
+| **JX D** | Junction defective, connecting pipe is damaged at ... o'clock, diameter ... mm |
+| **JX P** | Junction defective, position incorrect at ... o'clock, diameter ... mm |
+| **JX Z** | Defective junction, other |
+| **LC**   | Lining of drain changes |
+| **LC**[material code] | Lining of drain/sewer changes to ... at this point |
+| **LD**   | Line of drain/sewer deviates down ...[quarter/half/full]* |
+| **LH**   | Start node type, lamphole, reference number ... in Dimension 1 Column |
+| **LF**   | Finish node type, lamphole, reference number ... Dimension 1 Column |
+| **LL**   | Line of drain/sewer deviates left ... [quarter/half/full]* |
+| **LR**   | Line of drain/sewer deviates right ... [quarter/half/full]* |
+| **LU**   | Line of drain/sewer deviates up ... [quarter/half/full]* |
+| **LX**   | Lining defect |
+| **LX B** | Defective lining, blistering lining at ... (OR from ... to ...) o'clock |
+| **LX C** | Defective lining, discolouration of the lining at ... (OR from ... to ...) o'clock |
+| **LX D** | Defective lining, lining detached at ... (OR from ... to ...) o'clock |
+| **LX E** | Defective lining, defective end of lining at ... (OR from ... to ...) o'clock |
+| **LX W** | Defective lining, circumferential wrinkled lining from ... to ... o'clock |
+| **LX W L** | Defective lining, longitudinal wrinkled lining from ... to ... o'clock |
+| **LX W S** | Defective lining, spiral wrinkled lining from ... to ... o'clock |
+| **LX Z** | Defective lining, other lining defect at ... (OR from ... to ...) o'clock + qualifying remark |
+| **MB**   | Missing bricks at ... (OR from ... to ...) o'clock |
+| **MC**   | Material of drain changes |
+| **MC**[material code] | Material of drain/sewer changes to ... at this point |
+| **ME**   | Hazardous atmosphere, methane [% or ppm] |
+| **MH(*)**| Start node type, manhole, reference number ... in Dimension 1 Column |
+| **MF**   | Finish node type, manhole, reference number ... in Dimension 1 Column |
+| **MM**   | Missing mortar between ... mm and ... mm at ... (OR from ... to ...) o'clock |
+| **OB**   | Obstruction |
+| **OB B(*)** | Other obstacles, brick or masonry in invert at ... (OR from ... to ...) o'clock ... % cross-sectional area loss |
+| **OB C** | Other obstacles, through connection/junction at ... (OR from ... to ...) o'clock ... % cross-sectional area loss |
+| **OB J(*)** | Other obstacles, projecting through wall at ... (OR from ... to ...) o'clock ... % cross-sectional area loss |
+| **OB M(J)** | Other obstacles, pipe material in invert at ... (OR from ... to ...) o'clock ... % cross-sectional area loss |
+| **OB P** | Other obstacles, external pipe of cable from ... to ... o'clock ... % cross-sectional area loss + qualifying remark |
+| **OB S** | Other obstacles, built in structure from ... to ... o'clock ... % cross-sectional area loss + qualifying remark |
+| **OB X(J)** | Other obstacles, other object in invert at ... (OR from ... to ...) o'clock ... % cross-sectional area loss + qualifying remark |
+| **OZ D(*)** | Other obstacles, other from ... to ... o'clock ... % cross-sectional area loss + qualifying remark |
+| **OC**   | Start node type, other special chamber, reference number ... in Dimension 1 Column |
+| **OF**   | Finish node type, other special chamber, reference number ... in Dimension 1 Column |
+| **OD(*)**| Hazardous atmosphere, oxygen deficiency [% or ppm] |
+| **O*F**  | Start node type, outfall, reference number ... in Dimension 1 Column |
+| **OF**   | Finish node type, outfall, reference number ... in Dimension 1 Column |
+| **OJ**   | Open joint |
+| **OJ**   | Open joint ... mm (over 20% in mm) |
+| **OJ (L)** | Open joint large |
+| **OJ (M)** | Open joint medium |
+| **OJ (S)** | Open joint small |
+| **OS**   | Start node type, oil separator, reference number ... in Dimension 1 Column |
+| **OF**   | Finish node type, oil separator, reference number ... in Dimension 1 Column |
+| **PC**   | Length of pipe forming drain/sewer changes at this point, new length ... mm Dimension 1 Column |
+| **PS**   | Pipe material is porous at ... (OR from ... to ...) o'clock |
+| **PVR**  | Photographic volume reference new volume ... in Dimension 1 Column |
+| **R***   | Roots |
+| **RE***  | Start node type, rodding eye, reference number ... in Remarks Column |
+| **REF*** | Finish node type, rodding eye, reference number ... in Dimension 1 Column |
+| **RFM**  | General remark |
+| **RF(J)**| Roots fine |
+| **RM(J)**| Roots mass ... % cross-sectional area loss |
+| **RP H** | Point repair, hole repaired at ... (OR from ... to ...) o'clock |
+| **RP I** | Point repair, injected mortar at ... (OR from ... to ...) o'clock |
+| **RP L** | Point repair, localised lining from ... to ... o'clock |
+| **RP R** | Point repair, pipe replaced from ... to ... o'clock |
+| **RP S** | Point repair, other injected sealing material at ... (OR from ... to ...) o'clock |
+| **RP Z** | Point repair, other trenchless method at ... (OR from ... to ...) o'clock + qualifying remark |
+| **RT (J)**| Roots at joint |
+| **RW M** | Defective repair, part of wall missing at ... (OR from ... to ...) o'clock |
+| **RW Z** |
